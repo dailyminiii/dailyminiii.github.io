@@ -7,12 +7,12 @@ permalink: /experiences
 ---
 
 
-2021 ~ present      
+**2021 ~ present**
 
 M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
 Advisor: Prof. Seungjun Kim, Ph.D.
 
-2017 ~ 2021           
+**2017 ~ 2021**           
 
 B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)
 Advisor: Prof. Hyosung Ahn, Ph.D.
@@ -20,19 +20,22 @@ B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of 
 
 # Research Experiences
 
-Sep. 2021 ~ present           
+**Sep. 2021 ~ present**           
 
 Research Assistant, Human-Centered Intelligent Systems Laboratory, GIST
+
 Advisor SeungJun Kim
 
-Sep. 2020 ~ Aug.2021        
+**Sep. 2020 ~ Aug.2021**        
 
 Research Intern, Human-Centered Intelligent Systems Laboratory, GIST
+
 Advisor SeungJun Kim
+
 VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
 Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability.
 
-June. 2020 ~ Aug. 2020     
+**June. 2020 ~ Aug. 2020**     
 
 Research Intern, Smart Diagnosis and Design Optimization Laboratory, GIST
 Advisor Hyunseok Oh

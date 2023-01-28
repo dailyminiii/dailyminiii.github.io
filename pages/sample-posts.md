@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Sample Posts
+title: Experiences
 category: sample
 permalink: /experiences
 ---

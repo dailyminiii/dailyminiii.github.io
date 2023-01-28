@@ -16,6 +16,7 @@ menu:
 social:
 - {icon: 'instagram', link:  'https://www.instagram.com/daily_miniii/'}
 - {icon: 'youtube', link:   'https://www.youtube.com/channel/UCUCpgBdsKzO29vFWZjNM-7Q'}
+- {icon: 'google-scholar', link:   'https://scholar.google.co.kr/citations?user=MYVwH3MAAAAJ&hl=ko'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text

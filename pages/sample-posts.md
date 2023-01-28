@@ -11,14 +11,14 @@ permalink: /experiences
 
   * M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
 
-  * Advisor: Prof. Seungjun Kim, Ph.D.
+  * Advisor: SeungJun Kim
 
 
 [**2017 ~ 2021**]       
 
   * B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)
 
-  * Advisor: Prof. Hyosung Ahn, Ph.D.
+  * Advisor: Hyosung Ahn
 
   * B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
 
@@ -150,7 +150,7 @@ Adobe Premiere Pro,
 Final Cut Pro,
 Lightroom,
 Axure,
-SPSS
+SPSS, JASP
 
 ## Programming Languages 
 * Python,

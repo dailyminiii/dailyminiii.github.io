@@ -5,8 +5,6 @@ permalink: /experiences
 ---
 
 
-# Education
-
 2021 ~ present      M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and    	                     Technology (GIST)
 		Advisor: Prof. Seungjun Kim, Ph.D.
 2017 ~ 2021           B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)

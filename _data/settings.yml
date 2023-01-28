@@ -7,11 +7,10 @@ disqus:
 google-ID: 'tjd04862'
 
 menu:
-- {name: 'About me',  url: 'facts'}
-- {name: 'Publications', url: 'resources'}
-- {name: 'Experiences',       url: 'sample-posts'}
-- {name: 'Extracurricular Activities',      url: 'documentation'}
-- {name: 'Hobby',              url: 'about'}
+- {name: 'ABOUT ME',  url: 'facts'}
+- {name: 'PUBLICATIONS', url: 'publications'}
+- {name: 'EXPERIENCES',       url: 'experiences'}
+- {name: 'Hobby & EXTRA ACTIVITIES',      url: 'hobby'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

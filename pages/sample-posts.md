@@ -139,11 +139,11 @@ permalink: /experiences
 
 # Technical Strength
 
-## Modeling
+[Modeling]
 * Autodesk, Inventor,
 ANSYS
 
-## Software & Tools
+[Software & Tools]
 * LABVIEW,
 MATLAB,
 Unity,
@@ -155,17 +155,19 @@ Lightroom,
 Axure,
 SPSS, JASP
 
-## Programming Languages 
+[Programming Languages]
 * Python,
 C, C#, Julia,
 Linux,
 R
 
-## Machine Learning, Data Analysis Tools
+[Machine Learning, Data Analysis Tools]
 * Scikit-learn, Numpy, Pandas,
 Tensorflow,
 Pytorch
 
-## Hardware
+[Hardware]
 * Arduino
+
+# Visit for Collaborative Research
 

@@ -40,7 +40,7 @@ permalink: /experiences
   * Advisor: SeungJun Kim
 
   * VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
-  Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability.
+  * Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability.
 
 
 [**June. 2020 ~ Aug. 2020**]     

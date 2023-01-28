@@ -39,7 +39,9 @@ permalink: /publications
 
   * Research Assistant
   * Development of content creation and entertainment technologies based on intelligent   authoring tool to enhance accessibility of social communication     disabilities funded by the Ministry of Culture Sports and Tourism & Korea Creative Content Agency (GM14500)
-
+  
+### Scratch-based shopping content development for developmental disabilities
+![Profile](/assets/img/DevelopmentalDisorder.png)
 
 
 # Publications

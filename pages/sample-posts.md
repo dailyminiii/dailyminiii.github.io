@@ -10,13 +10,16 @@ permalink: /experiences
 [**2021 ~ present**]
 
 M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
+
 Advisor: Prof. Seungjun Kim, Ph.D.
 
 
 [**2017 ~ 2021**]       
 
 B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)
+
 Advisor: Prof. Hyosung Ahn, Ph.D.
+
 B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
 
 
@@ -43,7 +46,9 @@ Sensor-based Interactive Contents for People with Developmental Disabilities and
 [**June. 2020 ~ Aug. 2020**]     
 
 Research Intern, Smart Diagnosis and Design Optimization Laboratory, GIST
+
 Advisor Hyunseok Oh
+
 Life Prediction of Fatigue Failure Mechanism of the Solder Resistor 
 
 

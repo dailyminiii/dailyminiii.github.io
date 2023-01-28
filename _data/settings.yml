@@ -8,7 +8,7 @@ google-ID: 'tjd04862'
 
 menu:
 - {name: 'ABOUT ME',  url: 'facts'}
-- {name: 'CURRICULUM VITAE (CV) ', url: 'publications'}
+- {name: 'RESEARCH', url: 'publications'}
 - {name: 'EXPERIENCES',       url: 'experiences'}
 - {name: 'HOBBY & EXTRA ACTIVITIES',      url: 'hobby'}
 

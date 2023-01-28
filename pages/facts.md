@@ -32,3 +32,6 @@ Hi there! I'm Minwoo Seong. I have a background in Mechanical Engineering and am
   * Advisor: Hyosung Ahn
 
   * B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
+
+
+# News

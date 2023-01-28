@@ -5,7 +5,16 @@ category: resources
 permalink: /publications
 ---
   
-### Scratch-based shopping content development for developmental disabilities (Sep 2020 ~ Dec 2021, Research Intern)
+### Deep-Learning based Physiological Data Analysis  
+![Profile](/assets/img/DeepLearning.png){: width="252" height="287"}
+
+### Engagement Assessment for Children with Developmental Disabilities
+![Profile](/assets/img/Engagement.jpg){: width="252" height="287"}
+
+### Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments
+![Profile](/assets/img/VR Interface.png){: width="250" height="170"}  
+  
+### Scratch-based Shopping Content Development for Developmental Disabilities (Sep 2020 ~ Dec 2021, Research Intern)
 ![Profile](/assets/img/DevelopmentalDisorder.png){: width="252" height="287"}
 
 

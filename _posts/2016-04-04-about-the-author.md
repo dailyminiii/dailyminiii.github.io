@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "About Me"
 author: "Minwoo Seong"
 categories: facts
 tags: [sample]

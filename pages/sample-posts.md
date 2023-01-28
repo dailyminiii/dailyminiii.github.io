@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Education
+title: Visiting MIT for Collaborative Research
 category: resources
 
 permalink: /experiences
 ---
-
-
 
 # Research Experiences
 
@@ -66,9 +64,6 @@ permalink: /experiences
   * GIST Bachelor's Degree Government Scholarship
 
 
-# News
-
-
 # Teaching Experience
 
 [**Sep  2022 ~ Dec 2022**]    
@@ -111,6 +106,4 @@ Pytorch
 
 [Hardware]
 * Arduino
-
-# Visit for Collaborative Research
 

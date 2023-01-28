@@ -5,11 +5,8 @@ category: resources
 permalink: /publications
 ---
   
-### Deep-Learning based Physiological Data Analysis (Sep 2021 ~ Dec 2021, Research Assist)
+### Deep-Learning based Engagement Prediction with Physiological and Behavior Data Analysis (Sep 2021 ~ Dec 2021, Research Assist)
 ![Profile](/assets/img/DeepLearning.png)
-
-### Engagement Assessment for Children with Developmental Disabilities (Sep 2021 ~ Dec 2021, Research Assist)
-![Profile](/assets/img/Engagement.jpg)
 
 ### Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments (Jan 2021 ~ May 2021, Research Intern)
 ![Profile](/assets/img/VR Interface.png)

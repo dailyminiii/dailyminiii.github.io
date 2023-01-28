@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Minwoo Seong"
 categories: facts
 tags: [sample]
 image: cuba-2.jpg

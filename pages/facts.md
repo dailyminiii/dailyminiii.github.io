@@ -13,6 +13,8 @@ image: profile picture.jpeg
 
 Hi there! I'm Minwoo Seong. I have a background in Mechanical Engineering and am in the process of completing a Master's degree in Human-Computer Interaction in Gwangju Institute of Science and Technology (GIST). I'm excited to share my knowledge and contents with you. Check out [my personal website](https://dailyminiii.github.io/) for more information on my other projects, as well as some of my writing.
 
+On my homepage, you'll find a section dedicated to my hobbies and extra activities, in addition to my research. I invite you to take a look and enjoy the content!
+
 
 # Education
 

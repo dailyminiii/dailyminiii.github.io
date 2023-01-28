@@ -7,22 +7,6 @@ permalink: /experiences
 ---
 
 
-[**2021 ~ present**]
-
-  * M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
-
-  * Advisor: SeungJun Kim
-
-
-[**2017 ~ 2021**]       
-
-  * B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)
-
-  * Advisor: Hyosung Ahn
-
-  * B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
-
-
 
 # Research Experiences
 

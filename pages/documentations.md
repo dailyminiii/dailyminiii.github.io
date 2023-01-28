@@ -17,7 +17,7 @@ permalink: /publications
 
 # Research Interest
 
-∙ Human Computer Interaction 
+∙ Human-Computer Interaction 
 
 ∙ Deep Learning & Machine Learning
 

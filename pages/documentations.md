@@ -12,7 +12,7 @@ permalink: /publications
 ![Profile](/assets/img/VR Interface.png)
   
 ### Scratch-based Shopping Content Development for Developmental Disabilities (Sep 2020 ~ Dec 2020, Research Intern)
-![Profile](/assets/img/DevelopmentalDisorder.png)
+![Profile](/assets/img/DevelopmentalDisorder.png) {: width="500" height="550"}
 
 
 

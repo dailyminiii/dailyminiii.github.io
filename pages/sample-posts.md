@@ -1,6 +1,8 @@
 ---
 layout: page
+title: Experiences
 category: resources
+
 permalink: /experiences
 ---
 

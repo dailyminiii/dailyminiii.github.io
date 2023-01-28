@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
+title: Publications
 category: documentation
-permalink: /documentation
+permalink: /publications
 ---

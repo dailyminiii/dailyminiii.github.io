@@ -96,47 +96,6 @@ permalink: /experiences
 
   * HP 3D Operator Training and Certification for 4200 and PA 12 (Acquired in 2022)
 
-
-
-# Projects
-
-[**Sep  2021 ~ Aug 2023**]    
-
-  * Research Assistant
-  * Graduate School of Convergence for FLEX Energy funded by Korea Institute of Energy Technology Evaluation and Planning(KETEP) and the Ministry of
-  Trade, Industry & Energy(MOTIE) (GM15671)
-
-
-[**Sep  2021 ~ Dec 2022**]    
-
-  * Research Assistant
-  * GIST Metaverse Research Center: Development of XR-based realistic walking metaverse platform technology and contents (GR07400)
-
-
-[**Jan  2022 ~ Dec 2022**]    
-
-  * Research Assistant
-  * Development of real-time interactive content and platform technology for multiple scenarios based on autonomous vehicles (GM16030)
-
-
-[**Jan  2022 ~ Dec 2022**]    
-
-  * Research Assistant
-  * HCI+AI convergence research for human-centered physical system design (GK14780)
-
-[**Sep  2021 ~ Dec 2021**]
-
-  * Research Assistant
-  * GIST Vehicle XR Lab: Development of XR platform technology and contents for augmenting future car experience (GR06790)
-
-
-[**Sep  2021 ~ Dec 2021**]     
-
-  * Research Assistant
-  * Development of content creation and entertainment technologies based on intelligent   authoring tool to enhance accessibility of social communication     disabilities funded by the Ministry of Culture Sports and Tourism & Korea Creative Content Agency (GM14500)
-
-
-
 # Technical Strength
 
 [Modeling]

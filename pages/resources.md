@@ -9,3 +9,4 @@ permalink: /hobby
 
 ## Photo
 
+## Extra Activities

@@ -20,14 +20,14 @@ On my homepage, you'll find a section dedicated to my hobbies and extra activiti
 
 
 
-[**2021 ~ present**]
+[**Sep 2021 ~ present**]
 
   * M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
 
   * Advisor: SeungJun Kim
 
 
-[**2017 ~ 2021**]       
+[**Mar 2017 ~ Aug 2021**]       
 
   * B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)
 

@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: page
+title: Introduce Myself
+permalink: /facts
 title: "About Me"
 author: "Minwoo Seong"
 categories: facts

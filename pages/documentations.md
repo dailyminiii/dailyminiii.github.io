@@ -2,15 +2,15 @@
 
 Hi there! I'm Minwoo Seong. I have a background in mechanical engineering and am in the process of completing a master's degree in Human-Computer Interaction in Gwangju Institute of Science and Technology. I'm excited to share my knowledge and contents with you. Check out [my personal website](https://dailyminiii.github.io/) for more information on my other projects, as well as some of my writing.
 
-# Markdown Support
+# Research Interest
 
 As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
 
-## Basic Formatting
+# Education
 
 With Markdown, it is possible to emphasize words by making them *italicized*, using *astericks* or _underscores_, or making them **bold**, using **double astericks** or __double underscores__. Of course, you can combine those two formats, with both _**bold and italicized**_ text, using any combination of the above syntax. You can also add a strikethrough to text using a ~~double tilde~~.
 
-## Paragraphs
+# Awards & Scholarships
 
 This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 

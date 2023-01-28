@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Publications
+title: Hobbies & Extra Activities
 category: resources
-permalink: /resources
+permalink: /hobby
 ---

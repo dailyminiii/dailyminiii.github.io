@@ -1,3 +1,10 @@
+---
+layout: page
+category: resources
+permalink: /publications
+---
+
+
 # Projects
 
 

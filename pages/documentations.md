@@ -18,9 +18,14 @@ permalink: /publications
 # Research Interest
 
 ∙ Human Computer Interaction 
+
 ∙ Deep Learning & Machine Learning
+
 ∙ Sensor-based Technology 
+
 ∙ Virtual Reality & Augmented Reality
+
 ∙ Human-centered Haptic Interface
+
 ∙ Wearable Device
 

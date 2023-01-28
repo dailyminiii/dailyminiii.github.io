@@ -5,7 +5,7 @@ category: resources
 permalink: /hobby
 ---
 
-# Music
+## Music
 
-# Photo
+## Photo
 

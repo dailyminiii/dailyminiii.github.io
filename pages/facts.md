@@ -2,7 +2,7 @@
 layout: page
 title: Introduce Myself
 permalink: /facts
-title: "About Me"
+title: "About me"
 author: "Minwoo Seong"
 categories: facts
 tags: [sample]

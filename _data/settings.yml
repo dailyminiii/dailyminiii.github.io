@@ -8,11 +8,10 @@ google-ID: 'tjd04862'
 
 menu:
 - {name: 'About me',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Publications', url: 'resources'}
+- {name: 'Experiences',       url: 'sample-posts'}
+- {name: 'Extracurricular Activities',      url: 'documentation'}
+- {name: 'Hobby',              url: 'about'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

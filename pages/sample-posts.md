@@ -60,14 +60,14 @@ GIST Scholarship (Government supported), 2 years, Full funding
 
 GIST Scholarship for GIST Infinite Challenge Project
 
-• More details in the Extracurricular Activities section
+• More details in the [HOBBY & EXTRA ACTIVITIES section](https://dailyminiii.github.io/hobby)
 
 
 [**Mar 2020 ~ Dec 2020**]     
 
 GIST Scholarship for GIST Infinite Challenge Project
 
-• More details in the Extracurricular Activities section
+• More details in the [HOBBY & EXTRA ACTIVITIES section](https://dailyminiii.github.io/hobby)
 
 
 [**Sep 2017 ~ 2021**]              

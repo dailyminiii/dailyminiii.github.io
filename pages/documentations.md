@@ -1,12 +1,10 @@
 ---
 layout: page
+title: Publications
 category: resources
 permalink: /publications
 ---
 
-
-
-# Publications
 [4] Seong, M.W., Kim, S.J. (2022). Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments. In Proceedings of the Korean Information Science Society Conference. Korean Institute of Information Scientists and Engineers. (Best Papers)
 
 [3] Jeon, H. S., Oh, J. S., Seong, E. J., Seong, M.W., Kim, S. J. Surveys of User’s Perception Towards Foot Gesture and Exploration of Applicability. In Proceedings of HCI Korea 2022, Vol. 2022.

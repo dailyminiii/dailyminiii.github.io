@@ -5,11 +5,15 @@ category: resources
 permalink: /publications
 ---
 
+
 ### Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022, Research Assist)
 ![Profile](/assets/img/MotionSimulator.jpg)
   
 ### Deep-Learning based Engagement Prediction with Physiological and Behavior Data of Developmental Disorders  (Sep 2021 ~ Dec 2021, Research Assist)
 ![Profile](/assets/img/DeepLearning.png)
+
+### In-car XR Halloween Contents (July 2021 ~ Aug 2021, Research Intern)
+![Profile](/assets/img/XRcontents.gif)
 
 ### Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments (Jan 2021 ~ May 2021, Research Intern)
 ![Profile](/assets/img/VR Interface.png)

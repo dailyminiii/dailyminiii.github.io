@@ -7,10 +7,12 @@ permalink: /hobby
 
 ## Music
 
-#### [9] (Album) Join the album as a piano session (2021.05.13) [[Link]](https://www.genie.co.kr/detail/albumInfo?axnm=82039383)
+#### [10] (Album) Join the album as a piano session (2021.05.13) [[Link]](https://www.genie.co.kr/detail/albumInfo?axnm=82039383)
 ![Profile](/assets/img/Album.png)
 
-#### [8] (Arrangement & Video) The Holy Spirit Has Come (2021.04.06) [[Link]](https://www.youtube.com/watch?v=sYqEER2HTB0)
+#### [9] (Arrangement & Video) The Holy Spirit Has Come (2021.04.06) [[Link]](https://www.youtube.com/watch?v=sYqEER2HTB0)
+
+#### [8] (Recording & Video) Hwayobi - Something Like That (2021.02.28) [[Link]](https://www.youtube.com/watch?v=EhNlVuKVjSU) 
 
 #### [7] (Arrangement & Video) Welove - The Light Fills the Room (2021.02.20) [[Link]](https://www.youtube.com/watch?v=3JL_b2j_74M)  [[MR]](https://www.youtube.com/watch?v=qmhErsVbVLk)
 

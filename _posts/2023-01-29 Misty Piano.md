@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Piano Ensemble with Robot"
+title: "Misty Piano"
 author: "Minwoo Seong"
-categories: hobby
+categories: resources
 tags: [documentation,sample]
 image: MistyPiano.gif
 ---

@@ -7,7 +7,7 @@ permalink: /hobby
 
 ## Music
 
-#### Join the album as a piano session (2021.05.13) [[Link]](https://www.genie.co.kr/detail/albumInfo?axnm=82039383)
+#### [1] Join the album as a piano session (2021.05.13) [[Link]](https://www.genie.co.kr/detail/albumInfo?axnm=82039383)
 ![Profile](/assets/img/Album.png)
 
 ## Photo
@@ -17,5 +17,9 @@ permalink: /hobby
 
 ## Extra Activities
 
-#### Biennale in Gwangju (2021.09.01 ~ 2021.10.31)
+#### [2] GIST Infinite Challenge Project (WMVW), GIST College (2021.03 ~ 2021.12)
+![Profile](/assets/img/WMVW.png)
+
+
+#### [1] Biennale in Gwangju (2021.09.01 ~ 2021.10.31)
 ![Profile](/assets/img/Biennale.png)

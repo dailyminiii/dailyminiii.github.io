@@ -2,7 +2,7 @@
 layout: post
 title: "Piano Ensemble with Robot"
 author: "Minwoo Seong"
-categories: resources
+categories: facts
 tags: [documentation,sample]
 image: robotpiano.gif
 ---

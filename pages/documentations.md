@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects
+title: Projects
 category: resources
 permalink: /publications
 ---

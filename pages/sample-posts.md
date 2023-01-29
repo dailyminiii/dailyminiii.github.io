@@ -36,6 +36,10 @@ permalink: /experiences
 
 # Awards & Scholarships
 
+[**2022.06.30**]   
+
+  * KCC 2022 Best Paper Award (Within the top 3%)
+
 [**Sep 2021 ~ present**]      
 
   * GIST Scholarship (Government supported), 2 years, Full funding

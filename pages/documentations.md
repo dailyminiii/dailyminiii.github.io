@@ -8,6 +8,9 @@ permalink: /publications
 
 ### Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022, Research Assist)
 ![Profile](/assets/img/MotionSimulator.jpg)
+
+### Table Tennis Paddle Design and Content Production for Virtual Reality Interaction (May 2022 ~ June 2022, Lecture Term Project)
+![Profile](/assets/img/VRTableTennis.png)
   
 ### Deep-Learning based Engagement Prediction with Physiological and Behavior Data of Developmental Disorders  (Sep 2021 ~ Dec 2021, Research Assist)
 ![Profile](/assets/img/DeepLearning.png)

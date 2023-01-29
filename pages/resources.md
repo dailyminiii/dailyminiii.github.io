@@ -12,6 +12,9 @@ permalink: /hobby
 
 ## Photo
 
+#### [[Photo Link]](https://bald-blinker-cf9.notion.site/a967e9c2178545a7b77d9c7129267535)
+![Profile](/assets/img/Photo.png)
+
 ## Extra Activities
 
 #### Biennale in Gwangju (2021.09.01 ~ 2021.10.31)

@@ -11,5 +11,5 @@ permalink: /hobby
 
 ## Extra Activities
 
-#### 2021 Biennale in Gwangju
+#### Biennale in Gwangju (2021.09.01 ~ 2021.10.31)
 ![Profile](/assets/img/Biennale.png)

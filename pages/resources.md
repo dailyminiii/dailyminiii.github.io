@@ -7,6 +7,9 @@ permalink: /hobby
 
 ## Music
 
+#### Join the album as a piano session (2021.05.13) [[Link]](https://www.genie.co.kr/detail/albumInfo?axnm=82039383)
+![Profile](/assets/img/Album.png)
+
 ## Photo
 
 ## Extra Activities

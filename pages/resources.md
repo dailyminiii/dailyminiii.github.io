@@ -10,3 +10,6 @@ permalink: /hobby
 ## Photo
 
 ## Extra Activities
+
+#### 2021 Biennale in Gwangju
+![Profile](/assets/img/Biennale.png)

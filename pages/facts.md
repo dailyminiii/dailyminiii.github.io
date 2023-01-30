@@ -38,7 +38,7 @@ On my homepage, you'll find a section dedicated to my hobbies and extra activiti
 
 # News
 
- [3] KCC 2022 Best Paper Award [[link1]](http://www.chum-dan.net/news/articleView.html?idxno=6089) [[link2]](https://news.unn.net/news/articleView.html?idxno=531642) [[link3]](https://www.news1.kr/articles/?4753497) [[link4]](https://news.nate.com/view/20220726n07118) [[link5]](https://news.nate.com/view/20220726n07367)
+ [3] KCC 2022 Best Paper Award 🏆 [[link1]](http://www.chum-dan.net/news/articleView.html?idxno=6089) [[link2]](https://news.unn.net/news/articleView.html?idxno=531642) [[link3]](https://www.news1.kr/articles/?4753497) [[link4]](https://news.nate.com/view/20220726n07118) [[link5]](https://news.nate.com/view/20220726n07367)
  
  
  [2] Attending GIST-MIT workshop [[link]](https://www.etnews.com/20220711000027)

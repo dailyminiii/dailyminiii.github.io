@@ -13,66 +13,32 @@ permalink: /experiences
 ![Profile](/assets/img/2021MIT.png)
 
 
-# Research Experiences
+# Research Experiences     
 
-[**Sep. 2021 ~ present**]           
+[3] (Master's Degree) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: SeungJun Kim
 
-  * Research Assistant, Human-Centered Intelligent Systems Laboratory, GIST
+[2] (Research Intern) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: SeungJun Kim
 
-  * Advisor: SeungJun Kim
+VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment (Jan. 2021 ~ Aug. 2021)
 
+Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability (Sep. 2020 ~ Dec. 2020)
 
-[**Sep. 2020 ~ Aug.2021**]        
+[1] (Research Intern) Smart Diagnosis and Design Optimization Laboratory, GIST, Advisor: Hyunseok Oh
 
-  * Research Intern, Human-Centered Intelligent Systems Laboratory, GIST
-
-  * Advisor: SeungJun Kim
-
-  * VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
-  * Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability.
-
-
-[**June. 2020 ~ Aug. 2020**]     
-
-  * Research Intern, Smart Diagnosis and Design Optimization Laboratory, GIST
-
-  * Advisor: Hyunseok Oh
-
-  * Life Prediction of Fatigue Failure Mechanism of the Solder Resistor 
+Life Prediction of Fatigue Failure Mechanism of the Solder Resistor (June. 2020 ~ Aug. 2020)
 
 
 # Awards & Scholarships
 
-[**2022.06.30**]   
+[5] KCC 2022 Best Paper Award 🏆, within the top 3% (2022.06.30)
 
-  * KCC 2022 Best Paper Award 🏆 (within the top 3%)
+[4] GIST Master's Degree Government Scholarship (Government supported), 2 years, Full funding (Sep 2021 ~ present)
 
-[**Sep 2021 ~ present**]      
+[3] GIST Scholarship for GIST Infinite Challenge Project, More details in the [HOBBY & EXTRA ACTIVITIES section](https://dailyminiii.github.io/hobby) (Mar 2021 ~ Dec 2021)
 
-  * GIST Scholarship (Government supported), 2 years, Full funding
+[2] GIST Scholarship for GIST Infinite Challenge Project, More details in the [HOBBY & EXTRA ACTIVITIES section](https://dailyminiii.github.io/hobby) (Mar 2020 ~ Dec 2020)
 
-  * GIST Master's Degree Government Scholarship
-
-
-[**Mar 2021 ~ Dec 2021**]     
-
-  * GIST Scholarship for GIST Infinite Challenge Project
-
-  * More details in the [HOBBY & EXTRA ACTIVITIES section](https://dailyminiii.github.io/hobby)
-
-
-[**Mar 2020 ~ Dec 2020**]     
-
-  * GIST Scholarship for GIST Infinite Challenge Project
-
-  * More details in the [HOBBY & EXTRA ACTIVITIES section](https://dailyminiii.github.io/hobby)
-
-
-[**Sep 2017 ~ 2021**]              
-
-  * GIST Scholarship (Government supported), 4 years, Full funding
-
-  * GIST Bachelor's Degree Government Scholarship
+[1] GIST Bachelor's Degree Government Scholarship (Government supported), 4 years, Full funding (Sep 2017 ~ Aug 2021)
 
 
 # Teaching Experience

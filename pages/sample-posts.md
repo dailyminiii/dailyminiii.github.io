@@ -61,6 +61,10 @@ Research Topic : Life Prediction of Fatigue Failure Mechanism of the Solder Resi
 
   * HP 3D Operator Training and Certification for 4200 and PA 12 (Acquired in 2022)
 
+# Grading
+
+[Undergraduate] TGPA: 3.31, Major: 3.75, A+ Subjects 1) 
+
 # Technical Strength
 ![Profile](/assets/img/Technic.png)
 

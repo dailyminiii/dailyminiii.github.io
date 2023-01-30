@@ -6,11 +6,12 @@ category: resources
 permalink: /experiences
 ---
 
+### 2022 Visiting (2022.07.04. ~ 2022.07.16.)
+![Profile](/assets/img/2022MIT.png)
+
 ### 2021 Visiting (2021.11.28. ~ 2021.12.04.)
 ![Profile](/assets/img/2021MIT.png)
 
-### 2022 Visiting (2022.07.04. ~ 2022.07.16.)
-![Profile](/assets/img/2022MIT.png)
 
 # Research Experiences
 

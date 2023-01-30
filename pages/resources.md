@@ -35,9 +35,10 @@ permalink: /hobby
 
 ## Extra Activities
 
-#### [2] GIST Infinite Challenge Project (WMVW), GIST College (2021.03 ~ 2021.12)
+#### [3] GIST Infinite Challenge Project (WMVW), GIST College (2021.03 ~ 2021.12)
 ![Profile](/assets/img/WMVW.gif)
 
+#### [2] GIST Infinite Challenge Project (G-Base), GIST College (2020.03 ~ 2020.12)
 
 #### [1] Biennale in Gwangju (2021.09.01 ~ 2021.10.31)
 ![Profile](/assets/img/Biennale.png)

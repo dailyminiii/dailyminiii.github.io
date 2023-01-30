@@ -63,7 +63,7 @@ Research Topic : Life Prediction of Fatigue Failure Mechanism of the Solder Resi
 
 # Grading
 
-[Master's Degree(ing)] 
+[Master's Degree] 
 
 TGPA: 4.25
 

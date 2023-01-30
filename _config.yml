@@ -17,3 +17,11 @@ author:              "Minwoo Seong"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-4DG5XL0B3H"
+    anonymize_ip         : # true, false (default)

@@ -18,22 +18,15 @@ On my homepage, you'll find a section dedicated to my hobbies and extra activiti
 
 # Education
 
+[2] (Sep 2021 ~ Present) M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
 
+Advisor: SeungJun Kim
 
-[**Sep 2021 ~ present**]
+[1] (Mar 2017 ~ Aug 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)
+ 
+Advisor: Hyosung Ahn
 
-  * M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
-
-  * Advisor: SeungJun Kim
-
-
-[**Mar 2017 ~ Aug 2021**]       
-
-  * B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)
-
-  * Advisor: Hyosung Ahn
-
-  * B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
+B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
 
 
 # News

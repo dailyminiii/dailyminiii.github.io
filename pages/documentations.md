@@ -6,36 +6,40 @@ permalink: /publications
 ---
 ## During Master's Course
 
-### Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022, Research Assist)
+### Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022)
 ![Profile](/assets/img/MotionSimulator.jpg)
 
-### Reinforcement Learning Project: Geometry Friends
+### Reinforcement Learning Project: Geometry Friends (May 2022 ~ June 2022, Lecture Term Project)
 ![Profile](/assets/img/RL.png)
+
+### Force Control for Rendering Softness (May 2022 ~ June 2022, Lecture Term Project)
+![Profile](/assets/img/RobotControl.png)
 
 ### Table Tennis Paddle Design and Content Production for Virtual Reality Interaction (May 2022 ~ June 2022, Lecture Term Project)
 ![Profile](/assets/img/VRTableTennis.png)
   
-### Deep-Learning based Engagement Prediction with Physiological and Behavior Data of Developmental Disorders  (Sep 2021 ~ Dec 2021, Research Assist)
+### Deep-Learning based Engagement Prediction with Physiological and Behavior Data of Developmental Disorders  (Sep 2021 ~ Dec 2021)
 ![Profile](/assets/img/DL.png)
 
-### Production of In-car XR content using Visuo-Haptic Co-location Technology (Sep 2021 ~ Dec 2021, Research Assist)
+### Production of In-car XR content using Visuo-Haptic Co-location Technology (Sep 2021 ~ Dec 2021)
 ![Profile](/assets/img/SR.gif)
 
-### In-car XR Halloween Contents (July 2021 ~ Aug 2021, Research Intern)
-![Profile](/assets/img/XRcontents.gif)
 
 ## During Undergraduate
 
-### Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments (Jan 2021 ~ May 2021, Research Intern)
+### [5] In-car XR Halloween Contents (July 2021 ~ Aug 2021, Research Intern)
+![Profile](/assets/img/XRcontents.gif)
+
+### [4] Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments (Jan 2021 ~ May 2021, Research Intern)
 ![Profile](/assets/img/VR Interface.png)
 
-### Robot Control for Piano Ensemble
+### [3] Robot Control for Piano Ensemble (May 2021 ~ June 2021, Lecture Term Project)
 ![Profile](/assets/img/robotpiano.gif)
 
-### Classification of Various Instruments by Using DL Models (May 2021, Lecture Term Project)
+### [2] Classification of Various Instruments by Using DL Models (May 2021, Lecture Term Project)
 ![Profile](/assets/img/DeepLearning.png)
   
-### Scratch-based Shopping Content Development for Developmental Disabilities (Sep 2020 ~ Dec 2020, Research Intern)
+### [1] Scratch-based Shopping Content Development for Developmental Disabilities (Sep 2020 ~ Dec 2020, Research Intern)
 ![Profile](/assets/img/DevelopmentalDisorder.png){: width="500" height="550"}
 
 

@@ -16,7 +16,7 @@ permalink: /experiences
 # Research Experiences 
 
 ### Research Keywords
-VR, Autonomous Vehicle, Wearable, Machine Learning, Deep Learning, Haptic 
+**VR, Autonomous Vehicle, Wearable, Machine Learning, Deep Learning, Haptic**
 
 [3] (Master's Degree) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: SeungJun Kim
 

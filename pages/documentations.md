@@ -29,6 +29,9 @@ permalink: /publications
 ### Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments (Jan 2021 ~ May 2021, Research Intern)
 ![Profile](/assets/img/VR Interface.png)
 
+### Robot Control for Piano Ensemble
+![Profile](/assets/img/robotpiano.gif)
+
 ### Classification of Various Instruments by Using DL Models (May 2021, Lecture Term Project)
 ![Profile](/assets/img/DeepLearning.png)
   

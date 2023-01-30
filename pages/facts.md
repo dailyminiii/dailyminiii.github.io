@@ -46,4 +46,8 @@ On my homepage, you'll find a section dedicated to my hobbies and extra activiti
  
  [1] 2019 GIST Photo Contest Winner [[link]](https://www.gist.ac.kr/kr/html/sub06/060101.html?mode=V&no=194113)
 
+# Contact
+
+Phone: +82-01-8380-7907
+E-mail: seongminwoo@gm.gist.ac.kr
 

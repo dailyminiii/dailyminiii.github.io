@@ -16,7 +16,7 @@ permalink: /publications
 ![Profile](/assets/img/VRTableTennis.png)
   
 ### Deep-Learning based Engagement Prediction with Physiological and Behavior Data of Developmental Disorders  (Sep 2021 ~ Dec 2021, Research Assist)
-![Profile](/assets/img/DeepLearning.png)
+![Profile](/assets/img/DL.png)
 
 ### Production of In-car XR content using Visuo-Haptic Co-location Technology (Sep 2021 ~ Dec 2021, Research Assist)
 ![Profile](/assets/img/SR.gif)

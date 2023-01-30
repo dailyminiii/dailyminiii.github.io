@@ -4,7 +4,7 @@ title: Projects
 category: resources
 permalink: /publications
 ---
-
+## During Master's Course
 
 ### Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022, Research Assist)
 ![Profile](/assets/img/MotionSimulator.jpg)
@@ -23,6 +23,8 @@ permalink: /publications
 
 ### In-car XR Halloween Contents (July 2021 ~ Aug 2021, Research Intern)
 ![Profile](/assets/img/XRcontents.gif)
+
+## During Undergraduate
 
 ### Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments (Jan 2021 ~ May 2021, Research Intern)
 ![Profile](/assets/img/VR Interface.png)

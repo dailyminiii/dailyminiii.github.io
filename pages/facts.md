@@ -41,7 +41,7 @@ B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of 
 
 # Contact
 
-* Phone: +82-01-8380-7907
+Phone: +82-01-8380-7907
 
-* E-mail: seongminwoo@gm.gist.ac.kr
+E-mail: seongminwoo@gm.gist.ac.kr
 

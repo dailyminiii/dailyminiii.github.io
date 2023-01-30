@@ -36,9 +36,12 @@ permalink: /hobby
 ## Extra Activities
 
 #### [3] GIST Infinite Challenge Project (WMVW), GIST College (2021.03 ~ 2021.12)
+- Production of VR GIST campus map for the purpose of promoting college
 ![Profile](/assets/img/WMVW.gif)
 
-#### [2] GIST Infinite Challenge Project (G-Base), GIST College (2020.03 ~ 2020.12)
+#### [2] GIST Infinite Challenge Project (G-Base), GIST College (2020.07 ~ 2020.12)
+- Producing and composing songs/music video
 
 #### [1] Biennale in Gwangju (2021.09.01 ~ 2021.10.31)
+- Participated in the biennale exhibition
 ![Profile](/assets/img/Biennale.png)

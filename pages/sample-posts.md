@@ -17,15 +17,23 @@ permalink: /experiences
 
 [3] (Master's Degree) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: SeungJun Kim
 
+- Research Topic 4: Manufacturing an Autonomous Vehicle Simulator and Observing Changes in User Experience in Risky Situations (Sep. 2022 ~ Present)
+
+- Research Topic 3: Wearable Sensor-based Multimodal Badminton Data Collection and Badminton Training System Production (May. 2022 ~ Present)
+
+- Research Topic 2: Design and usability evaluation of a haptic device capable of rendering multi-texture in a virtual environment (Jan. 2022 ~ Present)
+
+- Research Topic 1: Deep-Learning based Engagement Classification with Physiological and Behavior data of Developmental Disorders (Sep. 2021 ~ Present)
+
 [2] (Research Intern) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: SeungJun Kim
 
-VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment (Jan. 2021 ~ Aug. 2021)
+- Research Topic 2: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment (Jan. 2021 ~ Aug. 2021)
 
-Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability (Sep. 2020 ~ Dec. 2020)
+- Research Topic 1: Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability (Sep. 2020 ~ Dec. 2020)
 
 [1] (Research Intern) Smart Diagnosis and Design Optimization Laboratory, GIST, Advisor: Hyunseok Oh
 
-Life Prediction of Fatigue Failure Mechanism of the Solder Resistor (June. 2020 ~ Aug. 2020)
+- Research Topic : Life Prediction of Fatigue Failure Mechanism of the Solder Resistor (June. 2020 ~ Aug. 2020)
 
 
 # Awards & Scholarships

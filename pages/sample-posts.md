@@ -63,7 +63,9 @@ Research Topic : Life Prediction of Fatigue Failure Mechanism of the Solder Resi
 
 # Grading
 
-[Undergraduate] TGPA: 3.31, Major: 3.75, A+ Subjects 1) 
+[Master's Degree(ing)] TGPA: 4.25, A+ Subjects 
+
+[Undergraduate] TGPA: 3.31, Major: 3.75, A+ Subjects 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics
 
 # Technical Strength
 ![Profile](/assets/img/Technic.png)

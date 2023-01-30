@@ -44,7 +44,7 @@ permalink: /experiences
 
 [**2022.06.30**]   
 
-  * KCC 2022 Best Paper Award (Within the top 3%)
+  * KCC 2022 Best Paper Award 🏆 (within the top 3%)
 
 [**Sep 2021 ~ present**]      
 

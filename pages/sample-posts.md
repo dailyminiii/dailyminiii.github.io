@@ -59,7 +59,7 @@ Research Topic : Life Prediction of Fatigue Failure Mechanism of the Solder Resi
 
 # Certificate
 
-  * HP 3D Operator Training and Certification for 4200 and PA 12 (Acquired in 2022)
+[1] HP 3D Operator Training and Certification for 4200 and PA 12 (Acquired in 2022)
 
 # Grading
 

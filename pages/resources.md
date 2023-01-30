@@ -40,7 +40,7 @@ permalink: /hobby
 ![Profile](/assets/img/WMVW.gif)
 
 #### [2] GIST Infinite Challenge Project (G-Base), GIST College (2020.03 ~ 2020.12)
-- Producing and composing songs/music video
+- Producing and composing songs & music video
 
 #### [1] Biennale in Gwangju (2021.09.01 ~ 2021.10.31)
 - Participated in the biennale exhibition

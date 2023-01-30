@@ -16,7 +16,7 @@ permalink: /experiences
 # Research Experiences 
 
 ### Research Keywords
-**VR, Autonomous Vehicle, Wearable, Machine Learning, Deep Learning, Haptic**
+<mark style='background-color: #fff5b1'> VR, Autonomous Vehicle, Wearable, Machine Learning, Deep Learning, Haptic </mark>
 
 [3] (Master's Degree) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: SeungJun Kim
 
@@ -52,11 +52,9 @@ Research Topic : Life Prediction of Fatigue Failure Mechanism of the Solder Resi
 [1] GIST Bachelor's Degree Government Scholarship (Government supported), 4 years, Full funding (Sep 2017 ~ Aug 2021)
 
 
-# Teaching Experience
+# Teaching Experience 
 
-[**Sep  2022 ~ Dec 2022**]    
-
-  * Teaching Assistant: Research Method in Human-Computer Interaction
+[1] Teaching Assistant: Research Method in Human-Computer Interaction (Sep  2022 ~ Dec 2022)
 
 
 # Certificate

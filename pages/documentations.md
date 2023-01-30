@@ -6,22 +6,22 @@ permalink: /publications
 ---
 ## During Master's Course
 
-### Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022)
+### [6] Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022)
 ![Profile](/assets/img/MotionSimulator.jpg)
 
-### Reinforcement Learning Project: Geometry Friends (May 2022 ~ June 2022, Lecture Term Project)
+### [5] Reinforcement Learning Project: Geometry Friends (May 2022 ~ June 2022, Lecture Term Project)
 ![Profile](/assets/img/RL.png)
 
-### Force Control for Rendering Softness (May 2022 ~ June 2022, Lecture Term Project)
+### [4] Force Control for Rendering Softness (May 2022 ~ June 2022, Lecture Term Project)
 ![Profile](/assets/img/RobotControl.png)
 
-### Table Tennis Paddle Design and Content Production for Virtual Reality Interaction (May 2022 ~ June 2022, Lecture Term Project)
+### [3] Table Tennis Paddle Design and Content Production for Virtual Reality Interaction (May 2022 ~ June 2022, Lecture Term Project)
 ![Profile](/assets/img/VRTableTennis.png)
   
-### Deep-Learning based Engagement Prediction with Physiological and Behavior Data of Developmental Disorders  (Sep 2021 ~ Dec 2021)
+### [2] Deep-Learning based Engagement Prediction with Physiological and Behavior Data of Developmental Disorders  (Sep 2021 ~ Dec 2021)
 ![Profile](/assets/img/DL.png)
 
-### Production of In-car XR content using Visuo-Haptic Co-location Technology (Sep 2021 ~ Dec 2021)
+### [1] Production of In-car XR content using Visuo-Haptic Co-location Technology (Sep 2021 ~ Dec 2021)
 ![Profile](/assets/img/SR.gif)
 
 

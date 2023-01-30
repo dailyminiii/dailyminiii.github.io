@@ -48,6 +48,7 @@ On my homepage, you'll find a section dedicated to my hobbies and extra activiti
 
 # Contact
 
-Phone: +82-01-8380-7907
-E-mail: seongminwoo@gm.gist.ac.kr
+* Phone: +82-01-8380-7907
+
+* E-mail: seongminwoo@gm.gist.ac.kr
 

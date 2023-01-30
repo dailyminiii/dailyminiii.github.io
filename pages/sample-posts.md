@@ -61,5 +61,5 @@ permalink: /experiences
   * HP 3D Operator Training and Certification for 4200 and PA 12 (Acquired in 2022)
 
 # Technical Strength
-![Profile](/assets/img/Technical.png)
+![Profile](/assets/img/Technic.png)
 

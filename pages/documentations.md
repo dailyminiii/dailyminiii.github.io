@@ -36,7 +36,7 @@ permalink: /publications
 ### [3] Robot Control for Piano Ensemble (May 2021 ~ June 2021, Lecture Term Project)
 ![Profile](/assets/img/robotpiano.gif)
 
-### [2] Classification of Various Instruments by Using DL Models (May 2021, Lecture Term Project)
+### [2] Classification of mutliple Instruments by Using DL Models (May 2021, Lecture Term Project)
 ![Profile](/assets/img/DeepLearning.png)
   
 ### [1] Scratch-based Shopping Content Development for Developmental Disabilities (Sep 2020 ~ Dec 2020, Research Intern)

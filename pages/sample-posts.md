@@ -39,6 +39,11 @@ Research Topic 1: Sensor-based Interactive Contents for People with Developmenta
 Research Topic : Life Prediction of Fatigue Failure Mechanism of the Solder Resistor (June. 2020 ~ Aug. 2020)
 
 
+# Teaching Experience 
+
+[1] Teaching Assistant: Research Method in Human-Computer Interaction (Sep  2022 ~ Dec 2022)
+
+
 # Awards & Scholarships
 
 [5] KCC 2022 Best Paper Award 🏆, within the top 3% (2022.06.30)
@@ -50,11 +55,6 @@ Research Topic : Life Prediction of Fatigue Failure Mechanism of the Solder Resi
 [2] GIST Scholarship for GIST Infinite Challenge Project, More details in the [HOBBY & EXTRA ACTIVITIES section](https://dailyminiii.github.io/hobby) (Mar 2020 ~ Dec 2020)
 
 [1] GIST Bachelor's Degree Government Scholarship (Government supported), 4 years, Full funding (Sep 2017 ~ Aug 2021)
-
-
-# Teaching Experience 
-
-[1] Teaching Assistant: Research Method in Human-Computer Interaction (Sep  2022 ~ Dec 2022)
 
 
 # Certificate

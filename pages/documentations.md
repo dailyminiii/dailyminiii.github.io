@@ -9,6 +9,9 @@ permalink: /publications
 ### Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022, Research Assist)
 ![Profile](/assets/img/MotionSimulator.jpg)
 
+### Reinforcement Learning Project: Geometry Friends
+![Profile](/assets/img/RL.png)
+
 ### Table Tennis Paddle Design and Content Production for Virtual Reality Interaction (May 2022 ~ June 2022, Lecture Term Project)
 ![Profile](/assets/img/VRTableTennis.png)
   

@@ -86,34 +86,5 @@ permalink: /experiences
   * HP 3D Operator Training and Certification for 4200 and PA 12 (Acquired in 2022)
 
 # Technical Strength
-
-[Modeling]
-* Autodesk, Inventor,
-ANSYS
-
-[Software & Tools]
-* LABVIEW,
-MATLAB,
-Unity,
-Logic Pro,
-Ableton Live,
-Adobe Premiere Pro,
-Final Cut Pro,
-Lightroom,
-Axure,
-SPSS, JASP
-
-[Programming Languages]
-* Python,
-C, C#, Julia,
-Linux,
-R
-
-[Machine Learning, Data Analysis Tools]
-* Scikit-learn, Numpy, Pandas,
-Tensorflow,
-Pytorch
-
-[Hardware]
-* Arduino
+![Profile](/assets/img/Technical.png)
 

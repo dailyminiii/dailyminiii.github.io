@@ -18,7 +18,7 @@ permalink: /experiences
 ### Research Keywords
 <mark style='background-color: #fff5b1'> VR, Autonomous Vehicle, Wearable, Machine Learning, Deep Learning, Haptic </mark>
 
-[3] (Master's Degree) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: SeungJun Kim
+[3] (Master's Degree) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: [SeungJun Kim](https://sites.google.com/view/gist-hcis-lab)
 
 Research Topic 4: Manufacturing an Autonomous Vehicle Simulator and Observing Changes in User Experience in Risky Situations (Sep. 2022 ~ Present)
 
@@ -28,13 +28,13 @@ Research Topic 2: Design and usability evaluation of a haptic device capable of 
 
 Research Topic 1: Deep-Learning based Engagement Classification with Physiological and Behavior data of Developmental Disorders (Sep. 2021 ~ Present)
 
-[2] (Research Intern) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: SeungJun Kim
+[2] (Research Intern) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: [SeungJun Kim](https://sites.google.com/view/gist-hcis-lab)
 
 Research Topic 2: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment (Jan. 2021 ~ Aug. 2021)
 
 Research Topic 1: Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability (Sep. 2020 ~ Dec. 2020)
 
-[1] (Research Intern) Smart Diagnosis and Design Optimization Laboratory, GIST, Advisor: Hyunseok Oh
+[1] (Research Intern) Smart Diagnosis and Design Optimization Laboratory, GIST, Advisor: [Hyunseok Oh](https://sddo.gist.ac.kr/index.php?hCode=BOARD&bo_idx=7)
 
 Research Topic : Life Prediction of Fatigue Failure Mechanism of the Solder Resistor (June. 2020 ~ Aug. 2020)
 

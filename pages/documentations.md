@@ -6,6 +6,9 @@ permalink: /publications
 ---
 ## During Master's Course
 
+### [6] Badminton Data Collection with Multimodal Wearable Sensors (Nov 2022 ~ Present)
+![Profile](/assets/img/badminton.gif)
+
 ### [6] Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022)
 ![Profile](/assets/img/MotionSimulator.jpg)
 

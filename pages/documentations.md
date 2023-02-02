@@ -46,7 +46,7 @@ permalink: /publications
 ![Profile](/assets/img/DevelopmentalDisorder.png){: width="500" height="550"}
 
 ### [1] Life Prediction of Fatigue Failure Mechanism of the Solder Resistor (Jul 2020 ~ Aug 2020, Research Intern)
-
+![Profile](/assets/img/solder.jpg)
 
 
 # Publications

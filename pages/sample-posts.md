@@ -36,7 +36,7 @@ Research Topic 1: Sensor-based Interactive Contents for People with Developmenta
 
 [1] (Research Intern) Smart Diagnosis and Design Optimization Laboratory, GIST, Advisor: [Hyunseok Oh](https://sddo.gist.ac.kr/index.php?hCode=BOARD&bo_idx=7)
 
-Research Topic : Life Prediction of Fatigue Failure Mechanism of the Solder Resistor (June. 2020 ~ Aug. 2020)
+Research Topic : Life Prediction of the Solder Resistor with Fatigue Failure Mechanism (June. 2020 ~ Aug. 2020)
 
 
 # Teaching Experience 

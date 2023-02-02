@@ -22,9 +22,9 @@ permalink: /hobby
 
 #### [4] (Arrangement & Piano & Video) BeWhy - My Star (2021.01.11) [[Link]](https://www.youtube.com/watch?v=uuFAw0NxtpQ) [[MR]](https://www.youtube.com/watch?v=4z3EG4XRjAU)
 
-#### [3] (Piano Cover & Video) Joe Hisaishi - One Summer's Day (2020.09.13) [[Link]](https://youtu.be/iPtXkVuTBBU)
+#### [3] (Arrangement & Video) Jukjae - Let's Go See The Stars (2020.11.19) [[Link]](https://www.youtube.com/watch?v=EhJDiCEFqWg)
 
-#### [2] (Arrangement & Video) Jukjae - Let's Go See The Stars (2020.11.19) [[Link]](https://www.youtube.com/watch?v=EhJDiCEFqWg)
+#### [2] (Piano Cover & Video) Joe Hisaishi - One Summer's Day (2020.09.13) [[Link]](https://youtu.be/iPtXkVuTBBU)
 
 #### [1] (Loop Station & Video) ZICO - Any Song (2020.07.17) [[Link]](https://youtu.be/-6O83N8HiWM)
 

@@ -30,20 +30,22 @@ permalink: /publications
 
 ## During Undergraduate
 
-### [5] In-car XR Halloween Contents (July 2021 ~ Aug 2021, Research Intern)
+### [6] In-car XR Halloween Contents (July 2021 ~ Aug 2021, Research Intern)
 ![Profile](/assets/img/XRcontents.gif)
 
-### [4] Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments (Jan 2021 ~ May 2021, Research Intern)
+### [5] Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments (Jan 2021 ~ May 2021, Research Intern)
 ![Profile](/assets/img/VR Interface.png)
 
-### [3] Robot Control for Piano Ensemble (May 2021 ~ June 2021, Lecture Term Project)
+### [4] Robot Control for Piano Ensemble (May 2021 ~ June 2021, Lecture Term Project)
 ![Profile](/assets/img/robotpiano.gif)
 
-### [2] Classification of mutliple Instruments by Using DL Models (May 2021, Lecture Term Project)
+### [3] Classification of mutliple Instruments by Using DL Models (May 2021, Lecture Term Project)
 ![Profile](/assets/img/DeepLearning.png)
   
-### [1] Scratch-based Shopping Content Development for Developmental Disabilities (Sep 2020 ~ Dec 2020, Research Intern)
+### [2] Scratch-based Shopping Content Development for Developmental Disabilities (Sep 2020 ~ Dec 2020, Research Intern)
 ![Profile](/assets/img/DevelopmentalDisorder.png){: width="500" height="550"}
+
+### [1] Life Prediction of Fatigue Failure Mechanism of the Solder Resistor (Jul 2020 ~ Aug 2020, Research Intern)
 
 
 

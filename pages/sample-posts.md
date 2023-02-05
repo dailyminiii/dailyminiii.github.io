@@ -75,7 +75,7 @@ TGPA: 3.31, Major GPA: 3.75
 
 A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics
 
-[College entrance exam]
+[College Entrance Exam]
 
 1st grade: Math, Physics II
 

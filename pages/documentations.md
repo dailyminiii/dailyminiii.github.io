@@ -12,6 +12,7 @@ permalink: /publications
 ![Profile](/assets/img/badminton.gif)
 
 ### [7] Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation (Nov 2022 ~ Feb 2023)
+![Profile](/assets/img/Risky Simulation.png)
 
 ### [6] Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022)
 ![Profile](/assets/img/MotionSimulator.jpg)

@@ -53,7 +53,7 @@ permalink: /publications
 
 ### International
 
-[1] Kim, S.*, Oh, J.*, <mark style='background-color: #fff5b1'>Seong, M.*</mark>, Jeon, E., Moon, Y., Kim, S. (2023). Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation. In Applied Sciences. (Equally contributed 1st author)
+[1] Kim, S.<mark style='background-color: #fff5b1'>*</mark>, Oh, J.<mark style='background-color: #fff5b1'>*</mark>, <mark style='background-color: #fff5b1'>Seong, M.*</mark>, Jeon, E., Moon, Y., Kim, S. (2023). Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation. In Applied Sciences. (Equally contributed 1st author)
 
 
 ### Domestic

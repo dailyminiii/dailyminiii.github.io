@@ -6,8 +6,12 @@ permalink: /publications
 ---
 ## During Master's Course
 
-### [7] Badminton Data Collection with Multimodal Wearable Sensors (Nov 2022 ~ Present)
+
+
+### [8] Badminton Data Collection with Multimodal Wearable Sensors (Nov 2022 ~ Present)
 ![Profile](/assets/img/badminton.gif)
+
+### [7] Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation (Nov 2022 ~ Feb 2023)
 
 ### [6] Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022)
 ![Profile](/assets/img/MotionSimulator.jpg)

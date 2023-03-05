@@ -53,6 +53,9 @@ permalink: /publications
 
 ### International
 
+[1] Kim, S.*, Oh, J.*, <mark style='background-color: #fff5b1'>Seong, M.*</mark>, Jeon, E., Moon, Y., Kim, S. (2023). Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation. In Applied Sciences.
+* means equally contributed
+
 ### Domestic
 
 [4] <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, S.J. (2022). Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments. In Proceedings of the Korean Information Science Society Conference. Korean Institute of Information Scientists and Engineers. <mark style='background-color: #fff5b1'>(Best Papers)</mark> [[pdf]](https://drive.google.com/file/d/1osPECbX_5QtMgc-7yUUff1bUsMaaJjom/view)

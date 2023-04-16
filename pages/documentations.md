@@ -58,12 +58,12 @@ permalink: /publications
 
 ### International
 
-[1] <u>Kim, S.</u>, <u>Oh, J.</u>, <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Jeon, E., Moon, Y., Kim, S. (2023). Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation. In Applied Sciences. (<u>Underline</u> means Equally contributed 1st author)
+[1] <u>Kim, S.</u>, <u>Oh, J.</u>, <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Jeon, E., Moon, Y., Kim, S. (2023). Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation. In Applied Sciences. (<u>Underline</u> means Equally contributed 1st author) [[link]](https://www.mdpi.com/2076-3417/13/8/4952)
 
 
 ### Domestic
 
-[4] <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, S.J. (2022). Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments. In Proceedings of the Korean Information Science Society Conference. Korean Institute of Information Scientists and Engineers. <mark style='background-color: #fff5b1'>(Best Papers)</mark> [[link]](https://www.mdpi.com/2076-3417/13/8/4952)
+[4] <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, S.J. (2022). Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments. In Proceedings of the Korean Information Science Society Conference. Korean Institute of Information Scientists and Engineers. <mark style='background-color: #fff5b1'>(Best Papers)</mark> [[link]](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11113699&googleIPSandBox=false&mark=0&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true)
 
 [3] Jeon, H. S., Oh, J. S., Seong, E. J., <mark style='background-color: #fff5b1'>Seong M.W.</mark>, Kim, S. J. (2022). Surveys of User’s Perception Towards Foot Gesture and Exploration of Applicability. In Proceedings of HCI Korea 2022, Vol. 2022. [[pdf]](https://drive.google.com/file/d/1Zefz_ERz1FURbhVKovUR7AWkqHvP2uVB/view)
 

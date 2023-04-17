@@ -8,7 +8,7 @@ permalink: /publications
 
 
 
-### [8] Badminton Data Collection with Multimodal Wearable Sensors (Nov 2022 ~ Present)
+### [8] Wearable Sensor-Based Biomechanical Data Collection for Objective Evaluation of Badminton Performance Across Skill Levels (Nov 2022 ~ Present)
 ![Profile](/assets/img/badminton.gif)
 
 ### [7] Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation (Nov 2022 ~ Feb 2023)

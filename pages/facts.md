@@ -30,7 +30,7 @@ B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of 
 
 
 # News
- [4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2 / Total 16 teams)
+ [4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2 / Total 17 teams)
  
 
  [3] KCC 2022 Best Paper Award 🏆 [[link1]](http://www.chum-dan.net/news/articleView.html?idxno=6089) [[link2]](https://news.unn.net/news/articleView.html?idxno=531642) [[link3]](https://www.news1.kr/articles/?4753497) [[link4]](https://news.nate.com/view/20220726n07118) [[link5]](https://news.nate.com/view/20220726n07367)

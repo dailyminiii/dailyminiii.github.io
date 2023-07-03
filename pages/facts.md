@@ -20,11 +20,11 @@ On my homepage, you'll find a section dedicated to my hobbies and extra activiti
 
 [2] (Sep 2021 ~ Present) M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
 
-Advisor: [SeungJun Kim](https://sites.google.com/view/gist-hcis-lab)
+Committee Members: [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao), [Jin-Hyuk Hong](https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko), [Kyung-Joong Kim](https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en), [Daniela Rus](https://www.csail.mit.edu/person/daniela-rus)
 
 [1] (Mar 2017 ~ Aug 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)
  
-Advisor: [Hyosung Ahn](https://dcas.gist.ac.kr/dcas/)
+Committee Members: [Hyosung Ahn](https://sites.google.com/view/hyosungahn/), [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao)
 
 B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
 

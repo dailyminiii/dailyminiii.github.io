@@ -46,6 +46,8 @@ Research Topic : Life Prediction of the Solder Resistor with Fatigue Failure Mec
 
 # Awards & Scholarships
 
+[6] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2 / Total 17 teams)
+
 [5] KCC 2022 Best Paper Award 🏆, within the top 3% (2022.06.30)
 
 [4] GIST Master's Degree Government Scholarship (Government supported), 2 years, Full funding (Sep 2021 ~ present)

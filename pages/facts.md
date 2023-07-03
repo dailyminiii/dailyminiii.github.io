@@ -22,6 +22,8 @@ On my homepage, you'll find a section dedicated to my hobbies and extra activiti
 
 Committee Members: [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao), [Jin-Hyuk Hong](https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko), [Kyung-Joong Kim](https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en), [Daniela Rus](https://www.csail.mit.edu/person/daniela-rus)
 
+M.S. Thesis: MultiSenseBadminton: Wearable Sensor-Based Biomechanical Dataset for Evaluation of Badminton Performance
+
 [1] (Mar 2017 ~ Aug 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)
  
 Committee Members: [Hyosung Ahn](https://sites.google.com/view/hyosungahn/), [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao)

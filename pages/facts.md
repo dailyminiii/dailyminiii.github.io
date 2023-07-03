@@ -9,7 +9,6 @@ tags: [sample]
 image: profile picture.jpeg
 ---
 
-<img src="https://user-images.githubusercontent.com/79134282/235041751-9a390187-7343-426b-9698-08f3ce66a752.jpg" width="300" height="400"/>
 ![KakaoTalk_20230703_145321401](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/27aded13-8af4-4b6f-aa47-1089ea69327d)
 
 Hi there! I'm Minwoo Seong. I have a background in Mechanical Engineering and am in the process of completing a Master's degree in Human-Computer Interaction in Gwangju Institute of Science and Technology (GIST). I'm excited to share my knowledge and contents with you. Check out [my personal website](https://dailyminiii.github.io/) for more information on my other projects, as well as some of my writing.

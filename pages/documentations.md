@@ -9,7 +9,7 @@ permalink: /publications
 ### [4] Team Badminseok at IJCAI CoachAI Badminton Challenge 2023: Multi-Layer Multi-Input Transformer Network (MuLMINet) with Weighted Loss, Runner-up (May 2023 ~ Jun 2023) [[Project link]](https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main)
 ![IJCAI](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/52e4a8b2-a50f-4d52-949a-ec4361fc658a)
 
-### [3] Wearable Sensor-Based Biomechanical Data Collection for Objective Evaluation of Badminton Performance Across Skill Levels (Nov 2022 ~ Jun 2023) [[Project link]](https://github.com/dailyminiii/MultiSenseBadminton)
+### [3] MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance (Nov 2022 ~ Jun 2023) [[Project link]](https://github.com/dailyminiii/MultiSenseBadminton)
 ![Profile](/assets/img/badminton.gif)
 
 ### [2] Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation (Nov 2022 ~ Feb 2023)

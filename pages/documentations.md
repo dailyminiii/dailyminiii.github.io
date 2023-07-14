@@ -1,51 +1,54 @@
 ---
 layout: page
-title: Projects
+title: Research Projects
 category: resources
 permalink: /publications
 ---
 ## During Master's Course
 
-### [9] Forecasting of Future Turn-Based Strokes in Badminton Rallies, IJCAI-CoachAI-Challenge-2023, Runner-up (May 2023 ~ Jun 2023) [[link]](https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main)
+### [4] Forecasting of Future Turn-Based Strokes in Badminton Rallies, IJCAI-CoachAI-Challenge-2023, Runner-up (May 2023 ~ Jun 2023) [[Project link]](https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main)
 ![IJCAI](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/52e4a8b2-a50f-4d52-949a-ec4361fc658a)
 
-### [8] Wearable Sensor-Based Biomechanical Data Collection for Objective Evaluation of Badminton Performance Across Skill Levels (Nov 2022 ~ Jun 2023) [[link]]([https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main](https://github.com/dailyminiii/MultiSenseBadminton))
+### [3] Wearable Sensor-Based Biomechanical Data Collection for Objective Evaluation of Badminton Performance Across Skill Levels (Nov 2022 ~ Jun 2023) [[Project link]]([https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main](https://github.com/dailyminiii/MultiSenseBadminton))
 ![Profile](/assets/img/badminton.gif)
 
-### [7] Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation (Nov 2022 ~ Feb 2023)
+### [2] Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation (Nov 2022 ~ Feb 2023)
 ![Profile](/assets/img/Risky Simulation.png)
-
-### [6] Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022)
-![Profile](/assets/img/MotionSimulator.jpg)
-
-### [5] Reinforcement Learning Project: Geometry Friends (May 2022 ~ June 2022, Lecture Term Project)
-![Profile](/assets/img/RL.png)
-
-### [4] Force Control for Rendering Softness (May 2022 ~ June 2022, Lecture Term Project)
-![Profile](/assets/img/RobotControl.png)
-
-### [3] Table Tennis Paddle Design and Content Production for Virtual Reality Interaction (May 2022 ~ June 2022, Lecture Term Project)
-![Profile](/assets/img/VRTableTennis.png)
   
-### [2] Deep-Learning based Engagement Prediction with Physiological and Behavior Data of Developmental Disorders  (Sep 2021 ~ Dec 2021)
+### [1] Deep-Learning based Engagement Prediction with Physiological and Behavior Data of Developmental Disorders  (Sep 2021 ~ Dec 2021)
 ![Profile](/assets/img/DL.png)
-
-### [1] Production of In-car XR content using Visuo-Haptic Co-location Technology (Sep 2021 ~ Dec 2021)
-![Profile](/assets/img/SR.gif)
 
 
 ## During Undergraduate
 
-### [6] In-car XR Halloween Contents (July 2021 ~ Aug 2021, Research Intern)
-![Profile](/assets/img/XRcontents.gif)
-
-### [5] Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments (Jan 2021 ~ May 2021, Research Intern)
+### [1] Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments (Jan 2021 ~ May 2021, Research Intern)
 ![Profile](/assets/img/VR Interface.png)
+
+
+# Term Project & Extra Projects
+
+### [10] Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022)
+![Profile](/assets/img/MotionSimulator.jpg)
+
+### [9] Reinforcement Learning Project: Geometry Friends (May 2022 ~ June 2022, Lecture Term Project)
+![Profile](/assets/img/RL.png)
+
+### [8] Force Control for Rendering Softness (May 2022 ~ June 2022, Lecture Term Project)
+![Profile](/assets/img/RobotControl.png)
+
+### [7] Table Tennis Paddle Design and Content Production for Virtual Reality Interaction (May 2022 ~ June 2022, Lecture Term Project)
+![Profile](/assets/img/VRTableTennis.png)
+
+### [6] Production of In-car XR content using Visuo-Haptic Co-location Technology (Sep 2021 ~ Dec 2021)
+![Profile](/assets/img/SR.gif)
+
+### [5] In-car XR Halloween Contents (July 2021 ~ Aug 2021, Research Intern)
+![Profile](/assets/img/XRcontents.gif)
 
 ### [4] Robot Control for Piano Ensemble (May 2021 ~ June 2021, Lecture Term Project)
 ![Profile](/assets/img/robotpiano.gif)
 
-### [3] Classification of mutliple Instruments by Using DL Models (May 2021, Lecture Term Project)
+### [3] Classification of multiple Instruments by Using DL Models (May 2021, Lecture Term Project)
 ![Profile](/assets/img/DeepLearning.png)
   
 ### [2] Scratch-based Shopping Content Development for Developmental Disabilities (Sep 2020 ~ Dec 2020, Research Intern)

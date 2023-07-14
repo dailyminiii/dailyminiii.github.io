@@ -6,10 +6,10 @@ permalink: /publications
 ---
 ## During Master's Course
 
-### [9] Forecasting of Future Turn-Based Strokes in Badminton Rallies, IJCAI-CoachAI-Challenge-2023, Runner-up (May 2023 ~ Jun 2023)
+### [9] Forecasting of Future Turn-Based Strokes in Badminton Rallies, IJCAI-CoachAI-Challenge-2023, Runner-up (May 2023 ~ Jun 2023) [[link]](https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main)
 ![IJCAI](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/52e4a8b2-a50f-4d52-949a-ec4361fc658a)
 
-### [8] Wearable Sensor-Based Biomechanical Data Collection for Objective Evaluation of Badminton Performance Across Skill Levels (Nov 2022 ~ Jun 2023)
+### [8] Wearable Sensor-Based Biomechanical Data Collection for Objective Evaluation of Badminton Performance Across Skill Levels (Nov 2022 ~ Jun 2023) [[link]]([https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main](https://github.com/dailyminiii/MultiSenseBadminton))
 ![Profile](/assets/img/badminton.gif)
 
 ### [7] Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation (Nov 2022 ~ Feb 2023)
@@ -73,7 +73,7 @@ permalink: /publications
 [1] Seong, E. J., Kim, W., Lee, J. W., <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, S. J. (2021). Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability. In Proceedings of HCI Korea 2021, Vol. 2021. [[pdf]](https://drive.google.com/file/d/1aj8kNSi5NoZGOwl4PgPRwEGtiPqkclyj/view)
 
 ### Competition
-[1] <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Oh, J. S., Kim, S. J. CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2 / Total 17 teams)
+[1] <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Oh, J. S., Kim, S. J. CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2 / Total 17 teams) [[link]](https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main)
 
 # Research Interest
 

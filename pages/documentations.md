@@ -6,9 +6,10 @@ permalink: /publications
 ---
 ## During Master's Course
 
+### [9] Forecasting of Future Turn-Based Strokes in Badminton Rallies, IJCAI-CoachAI-Challenge-2023, Runner-up (May 2023 ~ Jun 2023)
+![IJCAI](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/1073645c-92e9-45ac-b862-dee0a7b93526)
 
-
-### [8] Wearable Sensor-Based Biomechanical Data Collection for Objective Evaluation of Badminton Performance Across Skill Levels (Nov 2022 ~ Present)
+### [8] Wearable Sensor-Based Biomechanical Data Collection for Objective Evaluation of Badminton Performance Across Skill Levels (Nov 2022 ~ Jun 2023)
 ![Profile](/assets/img/badminton.gif)
 
 ### [7] Assessing the Impact of AR HUDs and Risk Level on User Experience in Self-Driving Cars: Results from a Realistic Driving Simulation (Nov 2022 ~ Feb 2023)

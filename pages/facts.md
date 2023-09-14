@@ -19,6 +19,8 @@ On my homepage, you'll find a section dedicated to my hobbies and extra activiti
 
 # Education
 
+[3] (Sep 2023 ~ Present) Ph.D. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
+
 [2] (Sep 2021 ~ Present) M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
 
 Committee Members: [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao), [Jin-Hyuk Hong](https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko), [Kyung-Joong Kim](https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en), [Daniela Rus](https://www.csail.mit.edu/person/daniela-rus)

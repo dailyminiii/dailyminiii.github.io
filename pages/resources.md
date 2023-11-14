@@ -30,7 +30,7 @@ permalink: /hobby
 
 ## Photo Album
 
-#### [[Photo Link]](https://bald-blinker-cf9.notion.site/a967e9c2178545a7b77d9c7129267535)
+#### [[Photo Link]](https://minwooseong.notion.site/Photo-Portfolio-a967e9c2178545a7b77d9c7129267535?pvs=4)
 ![Profile](/assets/img/Photo.png)
 
 ## Extra Activities

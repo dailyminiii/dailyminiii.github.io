@@ -23,7 +23,7 @@ permalink: /publications
 [1] Seong, E. J., Kim, W., Lee, J. W., <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, S. J. (2021). Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability. In Proceedings of HCI Korea 2021, Vol. 2021. [[pdf]](https://drive.google.com/file/d/1aj8kNSi5NoZGOwl4PgPRwEGtiPqkclyj/view)
 
 ### Competition
-[1] <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Oh, J. S., Kim, S. J. CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2 / Total 17 teams) [[link]](https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main) [[pdf]](https://arxiv.org/abs/2307.08262)
+[1] <mark style='background-color: #fff5b1'><u>Seong, M.W.<u></mark>, <u>Oh, J. S.<u>, Kim, S. J. CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2 / Total 17 teams) (<u>Underline</u> means Equally contributed 1st author) [[link]](https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main) [[pdf]](https://arxiv.org/abs/2307.08262)
 
 # Research Interest
 

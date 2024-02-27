@@ -7,6 +7,8 @@ permalink: /hobby
 
 ## Music
 
+#### [11] (Recording & Video) Isn'ts she lovely - Funk Ver (2024.01.27) [[Link]](https://www.youtube.com/watch?v=VWYnW5j7uwQ) 
+
 #### [10] (Album) Join the album as a piano session (2021.05.13) [[Link]](https://www.genie.co.kr/detail/albumInfo?axnm=82039383)
 ![Profile](/assets/img/Album.png)
 

@@ -6,6 +6,8 @@ category: resources
 permalink: /experiences
 ---
 
+### 2023 Visiting (2023.10.02. ~ 2023.10.30.)
+
 ### 2022 Visiting (2022.07.04. ~ 2022.07.16.)
 ![Profile](/assets/img/2022MIT.png)
 
@@ -17,6 +19,10 @@ permalink: /experiences
 
 ### Research Keywords
 <mark style='background-color: #fff5b1'> VR, Autonomous Vehicle, Wearable, Machine Learning, Deep Learning, Haptic </mark>
+
+[4] (Ph.D's Degree) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: [SeungJun Kim](https://sites.google.com/view/gist-hcis-lab)
+
+
 
 [3] (Master's Degree) Human-Centered Intelligent Systems Laboratory, GIST, Advisor: [SeungJun Kim](https://sites.google.com/view/gist-hcis-lab)
 

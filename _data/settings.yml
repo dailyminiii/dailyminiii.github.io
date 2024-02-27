@@ -7,17 +7,16 @@ disqus:
 google-ID: 'G-4DG5XL0B3H'
 
 menu:
-- {name: 'ABOUT ME',  url: 'facts'}
-- {name: 'RESEARCH', url: 'publications'}
-- {name: 'EXPERIENCES',       url: 'experiences'}
-- {name: 'HOBBY & EXTRA ACTIVITIES',      url: 'hobby'}
+- {name: 'About Me',  url: 'facts'}
+- {name: 'Publications', url: 'publications'}
+- {name: 'Experiences',       url: 'experiences'}
+- {name: 'Hobby',      url: 'hobby'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'instagram', link:  'https://www.instagram.com/daily_miniii/'}
 - {icon: 'youtube', link:   'https://www.youtube.com/channel/UCUCpgBdsKzO29vFWZjNM-7Q'}
 - {icon: 'archive', link:   'https://scholar.google.co.kr/citations?user=MYVwH3MAAAAJ&hl=ko'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
 pagination:

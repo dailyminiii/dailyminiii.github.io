@@ -46,7 +46,7 @@ Research Topic : Life Prediction of the Solder Resistor with Fatigue Failure Mec
 
 # Awards & Scholarships
 
-[6] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2 / Total 17 teams)
+[6] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)
 
 [5] KCC 2022 Best Paper Award 🏆, within the top 3% (2022.06.30)
 
@@ -63,23 +63,6 @@ Research Topic : Life Prediction of the Solder Resistor with Fatigue Failure Mec
 
 [1] HP 3D Operator Training and Certification for 4200 and PA 12 (Acquired in 2022)
 
-# Grading
-
-[Master's Degree] 
-
-TGPA: 4.25
-
-A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning
-
-[Undergraduate] 
-
-TGPA: 3.31, Major GPA: 3.75
-
-A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics
-
-[College Entrance Exam]
-
-1st grade: Math, Physics II
 
 # Technical Strength
 ![Profile](/assets/img/Technic.png)

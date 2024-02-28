@@ -7,6 +7,7 @@ disqus:
 google-ID: 'G-4DG5XL0B3H'
 
 menu:
+- {name: 'CV',  url: 'cv'}
 - {name: 'About',  url: 'about'}
 - {name: 'Publications', url: 'publications'}
 - {name: 'Experiences',       url: 'experiences'}
@@ -17,7 +18,6 @@ social:
 - {icon: 'instagram', link:  'https://www.instagram.com/daily_miniii/'}
 - {icon: 'youtube', link:   'https://www.youtube.com/channel/UCUCpgBdsKzO29vFWZjNM-7Q'}
 - {icon: 'archive', link:   'https://scholar.google.co.kr/citations?user=MYVwH3MAAAAJ&hl=ko'}
-- {icon: 'file', link:   'https://docs.google.com/document/d/1E9b6_fk1YVqwueIyG-NuD5gBGNsiruUvk8OTOOt7uRs/edit?usp=sharing'}
 
 # Customize site text
 pagination:

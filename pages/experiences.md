@@ -4,10 +4,9 @@ category: resources
 permalink: /experiences
 ---
 
-### Research Collaboration with MIT CSAIL Group
-
 <div style="font-size: 20px;"><p> 2023 Visiting (2023.10.02. ~ 2023.10.30.) </p></div>
-![스크린샷 2024-02-28 오후 2 48 52](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/33ec7476-b301-4776-a5b8-22df30c89615)
+![스크린샷 2024-02-28 오후 3 19 51](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/406071ea-249e-4ee4-a508-181b1e94473f)
+
 
 <div style="font-size: 20px;"><p> 2022 Visiting (2022.07.04. ~ 2022.07.16.) </p></div>
 ![Profile](/assets/img/2022MIT.png)
@@ -19,16 +18,16 @@ permalink: /experiences
 
 <div style="font-size: 18px;"><p> [4] Ubicomp 2023, Cancun, Mexico (Oct. 2023)
 </p></div>
-![스크린샷 2024-02-28 오후 3 01 58](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/2d12bca6-efb9-4d90-97f6-de7a81e02c6a)
+![스크린샷 2024-02-28 오후 3 24 55](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/140dbb5b-ce1f-4678-8f5c-47e9b18455ad)
 
 <div style="font-size: 18px;"><p> [3] AI Summit, Seoul (Dec. 2022)
 </p></div>
-![스크린샷 2024-02-28 오후 3 15 55](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/2787654a-5752-4634-b53d-05c23217699a)
+![스크린샷 2024-02-28 오후 3 19 25](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/5ac98921-112e-4659-a016-1838c57dbd98)
 
 
 <div style="font-size: 18px;"><p> [2] UIST 2022, Bend, Oregon, USA (Oct. 2022)
 </p></div>
-![스크린샷 2024-02-28 오후 3 09 57](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/6403060c-7e52-43e5-87fa-8729dd0b4b05)
+![스크린샷 2024-02-28 오후 3 20 24](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/0c704a09-b711-452f-ab79-8dc24f13209a)
 
 
 <div style="font-size: 18px;"><p> [1] KCC 2022, Jeju, South Korea (Jun. 2022) <span style="color: blue;">[Presenter 📣]</span>

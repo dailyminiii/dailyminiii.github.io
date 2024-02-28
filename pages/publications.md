@@ -29,7 +29,7 @@ permalink: /publications
 ### Domestic
 
 <div style="font-size: 18px;"><p>
-[4] <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, S.J. (2022). Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments. KCC 2022 <mark style='background-color: #fff5b1'> <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11113699&googleIPSandBox=false&mark=0&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true">(Best Papers 🏆)</a></mark>
+[4] <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, S.J. (2022). Virtual Reality Interface Design to Improve Grasping Experience in Block Stacking Activities in Virtual Environments. KCC 2022 <span style="color: blue;">(Best Papers 🏆, <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11113699&googleIPSandBox=false&mark=0&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true"> pdf)</span></a>
 </p></div>
 ![Profile](/assets/img/VR Interface.png)
 

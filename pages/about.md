@@ -17,7 +17,7 @@ I am particularly passionate about developing <u>Artificial Intelligence systems
 </p></div>
 
 <div style="font-size: 18px;"><p>
-For more in-depth information about my projects and writings, feel free to visit [my personal website](https://dailyminiii.github.io/). Additionally, my homepage features sections dedicated to both my research and personal hobbies and activities. I invite you to explore and hope you find the content both enlightening and enjoyable.
+For more in-depth information about my projects and writings, feel free to visit <a href="https://dailyminiii.github.io/">my personal website</a>. Additionally, my homepage features sections dedicated to both my research and personal hobbies and activities. I invite you to explore and hope you find the content both enlightening and enjoyable.
 </p></div>
 
 ## Education
@@ -28,8 +28,11 @@ For more in-depth information about my projects and writings, feel free to visit
   </p>
 </div>
 
-<div style="margin-right: 20px;">Box 1</div>
-<div>Box 2</div>
+
+
+
+<div style="margin-right: 20px;"></div>
+<div></div>
 
 <div style="font-size: 18px;">
  <p>
@@ -53,8 +56,13 @@ For more in-depth information about my projects and writings, feel free to visit
 
 <div style="font-size: 18px;"><p>A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning</p></div>
 
-<div style="margin-right: 20px;">Box 1</div>
-<div>Box 2</div>
+
+
+
+<div style="margin-right: 20px;"></div>
+<div></div>
+
+
 
 <div style="font-size: 18px;"><p>[1] (Mar 2017 ~ Aug 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</p></div>
  

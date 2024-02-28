@@ -56,6 +56,19 @@ permalink: /publications
 ![IJCAI](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/52e4a8b2-a50f-4d52-949a-ec4361fc658a)
 
 
+### Copyrighted Content
+
+<div style="font-size: 18px;"><p>
+[2] Mobility-Linked Virtual Reality-Based Underwater Exploration Immersive Content Game Software (Underwater Exploration & Ocean Trash Collection Game)
+Kim, S., Kang, S., Kang, Y., Kim, K., Seong, M., An, E., Yang, H., Yeo, D., Oh, J., Jeon, H., Jo, T., and Hwang, S.
+Copyright for Computer Program Works C-2022-050134
+</p></div>
+
+<div style="font-size: 18px;"><p>
+[1] Mobility-Linked Virtual Reality-Based Underwater Exploration Immersive Content Game Software (Underwater Exploration & Underwater Gem Collection Game)
+Kim, S., Kang, S., Kang, Y., Kim, K., Seong, M., An, E., Yang, H., Yeo, D., Oh, J., Jeon, H., Jo, T., and Hwang, S.
+Copyright for Computer Program Works C-2022-050133
+</p></div>
 
 ## Extra Projects
 

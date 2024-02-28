@@ -15,7 +15,7 @@ Welcome to my personal homepage! I'm Minwoo Seong, deeply passionate about explo
 
 <div style="font-size: 24px;"><p><strong>
 Academic and Professional Pursuits:
-</p></div>
+<strong></p></div>
   
 <div style="font-size: 18px;"><p>
 My academic path has taken me to the intersection of HCI, VR, and AI, where I've had the privilege of collaborating with esteemed institutions like MIT's CSAIL group. These collaborations have enriched my research, allowing me to work on groundbreaking projects that seek to understand and enhance human experiences through technology. Whether it's developing datasets to better understand engagement in children with Autism Spectrum Disorder or creating wearable sensor-based systems to improve athletic performance, my work is about using tech for good.
@@ -27,7 +27,7 @@ Currently, I am particularly interested in utilizing AI in the sports domain to 
 
 <div style="font-size: 24px;"><p><strong>
 Creative Explorations and Philosophical Inquiry:
-</p></div>
+<strong></p></div>
   
 <div style="font-size: 18px;"><p>
 Beyond academia, music and art hold a special place in my heart. I've ventured into the world of music, arranging, recording, and producing a variety of pieces that range from classical covers to original compositions. These projects not only showcase my love for music but also how technology can intersect with art to create something truly unique.
@@ -39,7 +39,7 @@ As AI technology advances, it's fascinating to see its integration into traditio
 
 <div style="font-size: 24px;"><p><strong>
 A Vision for Multisensory Artistic Experiences:
-</p></div>
+<strong></p></div>
 
 <div style="font-size: 18px;"><p>
 I envision a future where technological advancements, especially in virtual environments, redefine our experience of art and music. Imagine not just listening to music but experiencing it through multiple senses, where you can feel and interact with sound in a multidimensional space. Similarly, the combination of VR, AR, and haptic technologies has the potential to create immersive art experiences, allowing us to engage with visual art in entirely new and profound ways.
@@ -47,7 +47,7 @@ I envision a future where technological advancements, especially in virtual envi
 
 <div style="font-size: 24px;"><p><strong>
 A Vision for the Future:
-</p></div>
+<strong></p></div>
   
 <div style="font-size: 18px;"><p>
 At the core of my work is the belief that technology should serve as a catalyst for positive change, enriching lives and expanding the scope of human experiences. Through ongoing exploration and innovation, I'm excited to uncover new paths where technology not only deepens our engagement with the digital world but also fosters a more inclusive, engaging, and vibrant future for everyone.

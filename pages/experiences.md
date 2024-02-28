@@ -55,8 +55,9 @@ permalink: /experiences
 
 ### Teaching Experience 
 
-<div style="font-size: 18px;"><p>[1] Teaching Assistant: Research Method in Human-Computer Interaction (Sep.  2022 ~ Dec. 2022)</p></div>
+<div style="font-size: 18px;"><p>[2] Teaching Assistant: Research Method in Human-Computer Interaction (Sep.  2022 ~ Dec. 2022)</p></div>
 
+<div style="font-size: 18px;"><p>[1] 2019 GIST Science Camp, Korea (GIST) (Jan. 2019) - Delivering hands-on and conceptual learning experiences to elementary and middle schoolers in the local community </p></div>
 
 ### Awards & Scholarships
 

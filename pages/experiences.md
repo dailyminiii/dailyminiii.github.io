@@ -4,18 +4,18 @@ category: resources
 permalink: /experiences
 ---
 
-## Research Collaboration with MIT CSAIL Group
+### Research Collaboration with MIT CSAIL Group
 
-### 2023 Visiting (2023.10.02. ~ 2023.10.30.)
+<div style="font-size: 20px;"><p> 2023 Visiting (2023.10.02. ~ 2023.10.30.) </p></div>
 ![스크린샷 2024-02-28 오후 2 48 52](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/33ec7476-b301-4776-a5b8-22df30c89615)
 
-### 2022 Visiting (2022.07.04. ~ 2022.07.16.)
+<div style="font-size: 20px;"><p> 2022 Visiting (2022.07.04. ~ 2022.07.16.) </p></div>
 ![Profile](/assets/img/2022MIT.png)
 
-### 2021 Visiting (2021.11.28. ~ 2021.12.04.)
+<div style="font-size: 20px;"><p> 2021 Visiting (2021.11.28. ~ 2021.12.04.) </p></div>
 ![Profile](/assets/img/2021MIT.png)
 
-## Participating Conferences
+### Participating Conferences
 
 <div style="font-size: 18px;"><p> [4] Ubicomp 2023, Cancun, Mexico (Oct. 2023)
 </p></div>
@@ -23,6 +23,8 @@ permalink: /experiences
 
 <div style="font-size: 18px;"><p> [3] AI Summit, Seoul (Dec. 2022)
 </p></div>
+![스크린샷 2024-02-28 오후 3 15 55](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/2787654a-5752-4634-b53d-05c23217699a)
+
 
 <div style="font-size: 18px;"><p> [2] UIST 2022, Bend, Oregon, USA (Oct. 2022)
 </p></div>
@@ -50,12 +52,12 @@ permalink: /experiences
 <div style="font-size: 18px;"><p> [1] Development of content creation and entertainment technologies based on intelligent authoring tool to enhance accessibility of social communication disabilities funded by the Ministry of Culture Sports and Tourism & Korea Creative Content Agency (GM14500) (Sep.2020 ~ Dec. 2021) 
 </p></div>
 
-## Teaching Experience 
+### Teaching Experience 
 
 <div style="font-size: 18px;"><p>[1] Teaching Assistant: Research Method in Human-Computer Interaction (Sep.  2022 ~ Dec. 2022)</p></div>
 
 
-## Awards & Scholarships
+### Awards & Scholarships
 
 <div style="font-size: 18px;"><p>[7] GIST Ph.D. Degree Government Scholarship (Government supported), 4 years, Full funding (Sep. 2023 ~ present)</p></div>
 
@@ -72,11 +74,11 @@ permalink: /experiences
 <div style="font-size: 18px;"><p>[1] GIST Bachelor's Degree Government Scholarship (Government supported), 4 years, Full funding (Sep. 2017 ~ Aug. 2021)</p></div>
 
 
-## Certificate
+### Certificate
 
-[1] HP 3D Operator Training and Certification for 4200 and PA 12 (Acquired in 2022)
+<div style="font-size: 18px;"><p>[1] HP 3D Operator Training and Certification for 4200 and PA 12 (Acquired in 2022)</p></div>
 
 
-## Technical Strength
+### Technical Strength
 ![Profile](/assets/img/Technic.png)
 

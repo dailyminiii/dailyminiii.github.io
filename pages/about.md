@@ -13,7 +13,7 @@ Welcome! My name is Minwoo Seong. My academic journey began in <u>Mechanical Eng
 </p></div>
 
 <div style="font-size: 18px;"><p>
-I am particularly passionate about developing <u>Artificial Intelligence systems that operate within human-centric frameworks and extending the realm of user experiences in music and sports through Virtual Reality (VR) and Augmented Reality (AR) environments</u>u>. My research primarily revolves around utilizing wearable sensors to gather extensive human data. This data forms the backbone of the AI systems I build, aimed at providing feedback to users not only in physical spaces but also in virtual environments. This approach seeks to blur the lines between technology and human experience, paving the way for innovative and engaging user interactions.
+I am particularly passionate about developing <u>Artificial Intelligence systems that operate within human-centric frameworks and extending the realm of user experiences in music and sports through Virtual Reality (VR) and Augmented Reality (AR) environments</u>. My research primarily revolves around utilizing wearable sensors to gather extensive human data. This data forms the backbone of the AI systems I build, aimed at providing feedback to users not only in physical spaces but also in virtual environments. This approach seeks to blur the lines between technology and human experience, paving the way for innovative and engaging user interactions.
 </p></div>
 
 <div style="font-size: 18px;"><p>

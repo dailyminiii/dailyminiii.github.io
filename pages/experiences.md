@@ -15,6 +15,23 @@ permalink: /experiences
 ### 2021 Visiting (2021.11.28. ~ 2021.12.04.)
 ![Profile](/assets/img/2021MIT.png)
 
+## Participating Conferences
+
+<div style="font-size: 18px;"><p> [4] Ubicomp 2023, Cancun, Mexico (Oct. 2023)
+</p></div>
+![스크린샷 2024-02-28 오후 3 01 58](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/2d12bca6-efb9-4d90-97f6-de7a81e02c6a)
+
+<div style="font-size: 18px;"><p> [3] AI Summit, Seoul (Dec. 2022)
+</p></div>
+
+<div style="font-size: 18px;"><p> [2] UIST 2022, Bend, Oregon, USA (Oct. 2022)
+</p></div>
+![스크린샷 2024-02-28 오후 3 09 57](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/6403060c-7e52-43e5-87fa-8729dd0b4b05)
+
+
+<div style="font-size: 18px;"><p> [1] KCC 2022, Jeju, South Korea (Jun. 2022) <span style="color: blue;">[Presenter 📣]</span>
+</p></div>
+![스크린샷 2024-02-28 오후 2 54 48](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/c4f3c1be-0fcb-4809-96c2-0525e8433db0)
 
 ## Research Projects
 
@@ -42,7 +59,7 @@ permalink: /experiences
 
 <div style="font-size: 18px;"><p>[7] GIST Ph.D. Degree Government Scholarship (Government supported), 4 years, Full funding (Sep. 2023 ~ present)</p></div>
 
-<div style="font-size: 18px;"><p>[6] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)</p></div>
+<div style="font-size: 18px;"><p>[6] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up 🏆 (Rank 2)</p></div>
 
 <div style="font-size: 18px;"><p>[5] KCC 2022 Best Paper Award 🏆, within the top 3% (2022.06.30)</p></div>
 

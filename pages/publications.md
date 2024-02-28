@@ -12,12 +12,12 @@ permalink: /publications
 ![스크린샷 2024-02-28 오후 2 19 51](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/550f417d-2317-4b43-87d1-78f50df2751e)
 
 <div style="font-size: 18px;"><p>  
-[3] <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, G., Yeo, D., Kang, Y., Yang, H., DelPreto. J., Matusik., W., Rus., D., Kim, S. (2024). MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance. Scientific Data. <span style="color: blue;">(Accepted)</span>
+[3] <mark style='background-color: #fff5b1'>Seong, M.</mark>, Kim, G., Yeo, D., Kang, Y., Yang, H., DelPreto. J., Matusik., W., Rus., D., Kim, S. (2024). MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance. Scientific Data. <span style="color: blue;">(Accepted)</span>
 </p></div>
 ![스크린샷 2024-02-28 오후 2 20 12](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/f0aad0b2-9393-4e4f-9528-2d6e895573f7)
 
 <div style="font-size: 18px;"><p>   
-[2] Hwang, S., Oh, J., Kang, S., <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Elsharkawy, A., and Kim, S. (2024). ErgoPulse: Electrifying Your Lower Body With Biomechanical Simulation-based Electrical Muscle Stimulation Haptic System in Virtual Reality. Proceedings of the 2024 CHI - <span style="color: blue;">(Accepted)</span>
+[2] Hwang, S., Oh, J., Kang, S., <mark style='background-color: #fff5b1'>Seong, M.</mark>, Elsharkawy, A., and Kim, S. (2024). ErgoPulse: Electrifying Your Lower Body With Biomechanical Simulation-based Electrical Muscle Stimulation Haptic System in Virtual Reality. Proceedings of the 2024 CHI - <span style="color: blue;">(Accepted)</span>
 </p></div>
 ![스크린샷 2024-02-28 오후 2 19 11](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/826d5649-ac96-4a59-a7a8-937b9a02c303)
 

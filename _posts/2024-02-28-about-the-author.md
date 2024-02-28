@@ -18,11 +18,11 @@ Academic and Professional Pursuits:
 </strong></p></div>
   
 <div style="font-size: 18px;"><p>
-My academic path has taken me to the intersection of HCI, VR, and AI, where I've had the privilege of collaborating with esteemed institutions like MIT's CSAIL group. These collaborations have enriched my research, allowing me to work on groundbreaking projects that seek to understand and enhance human experiences through technology. Whether it's developing datasets to better understand engagement in children with Autism Spectrum Disorder or creating wearable sensor-based systems to improve athletic performance, my work is about using tech for good.
+My studies have led me to the exciting crossroads of HCI, VR, and AI, where I've had the amazing opportunity to work alongside renowned groups like MIT's CSAIL. This collaboration has greatly enhanced my research, enabling me to embark on innovative projects aimed at improving how we interact with technology. From developing datasets to better understand how children with Autism Spectrum Disorder engage with their surroundings, to designing wearable sensor systems that boost sports performance, my focus is on harnessing technology for positive impact.
 </p></div>
 
 <div style="font-size: 18px;"><p>
-Currently, I am particularly interested in utilizing AI in the sports domain to facilitate training for beginners. This includes implementing training environments in virtual settings and visualizing the discrepancies between desired motions and actual performance within these virtual environments. My research aims to leverage VR and AI to revolutionize how we approach sports training, making it more accessible, effective, and engaging.
+Right now, I'm especially drawn to using AI to help beginners in sports. This involves setting up virtual training spaces and showing the differences between the movements people want to make and what they actually do. My goal is to use VR and AI to transform sports training into something that's not only more reachable and efficient but also more captivating.
 </p></div>
 
 <div style="font-size: 24px;"><p><strong>
@@ -30,11 +30,15 @@ Creative Explorations and Philosophical Inquiry:
 </strong></p></div>
   
 <div style="font-size: 18px;"><p>
-Beyond academia, music and art hold a special place in my heart. I've ventured into the world of music, arranging, recording, and producing a variety of pieces that range from classical covers to original compositions. These projects not only showcase my love for music but also how technology can intersect with art to create something truly unique.
+Outside of my research work, music, especially playing the piano, is very important to me. I love diving into music, whether that’s creating new tunes, playing jazz pieces, or producing music. This passion isn’t just about playing music; it shows how much I enjoy mixing technology with music to make something special for the ears.
 </p></div>
 
 <div style="font-size: 18px;"><p>
-As AI technology advances, it's fascinating to see its integration into traditionally human-centric domains like art and music. This raises profound questions about the nature of creativity and the future of artistic expression. Just as the advent of the camera spurred new art movements and the emergence of MIDI technology transformed music production, AI is set to have a significant impact on these fields. I am keen on exploring what this means for human creativity and how artists can embrace and integrate AI to push the boundaries of their work.
+I don’t just play music; I also love listening to it. This hobby is made even better by my interest in using technology to make listening to music an even better experience. I’m always curious about how technology can make enjoying music better, making it feel more real and immersive. This drive shows my dedication to using new tech to make music more enjoyable for everyone, proving that technology can really make our experience of music richer and more interesting.
+</p></div>
+
+<div style="font-size: 18px;"><p>
+As AI gets better, it’s really interesting to see it being used in areas we usually think of as very human, like art and music. This makes us wonder about what being creative really means and how art might change in the future. Just like how cameras started new kinds of art and MIDI changed how we make music, AI is going to make a big difference too. I’m excited to figure out what all this means for being creative and how artists can use AI to take their work to new levels.
 </p></div>
 
 <div style="font-size: 24px;"><p><strong>
@@ -42,7 +46,7 @@ A Vision for Multisensory Artistic Experiences:
 </strong></p></div>
 
 <div style="font-size: 18px;"><p>
-I envision a future where technological advancements, especially in virtual environments, redefine our experience of art and music. Imagine not just listening to music but experiencing it through multiple senses, where you can feel and interact with sound in a multidimensional space. Similarly, the combination of VR, AR, and haptic technologies has the potential to create immersive art experiences, allowing us to engage with visual art in entirely new and profound ways.
+I dream of a future where new tech, especially in virtual spaces, changes how we see art and music. Picture not just hearing music, but feeling it with all your senses, in a space where you can touch and move around the sounds. Also, mixing VR, AR, and touch-based tech could make art something you can step into and interact with, giving us totally new ways to enjoy and connect with visuals.
 </p></div>
 
 <div style="font-size: 24px;"><p><strong>
@@ -50,7 +54,7 @@ A Vision for the Future:
 </strong></p></div>
   
 <div style="font-size: 18px;"><p>
-At the core of my work is the belief that technology should serve as a catalyst for positive change, enriching lives and expanding the scope of human experiences. Through ongoing exploration and innovation, I'm excited to uncover new paths where technology not only deepens our engagement with the digital world but also fosters a more inclusive, engaging, and vibrant future for everyone.
+At the heart of what I do is the idea that technology should help make things better, improving our lives and making our experiences richer. I'm always looking for new ways to use technology to connect us more deeply with the digital world and to create a future that's welcoming, interesting, and full of life for everyone.
 </p></div>
 
 <div style="font-size: 18px;"><p>

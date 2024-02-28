@@ -9,8 +9,7 @@ permalink: /hobby
 <div style="font-size: 18px;"><p> 
 [12] (Recording & Video) Isn'ts she lovely - Funk Ver (2024.01.27) <a href="https://www.youtube.com/watch?v=VWYnW5j7uwQ">[Link]</a>
 </p></div>
-![mq3](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/be0d6c31-c26f-48b1-8ffd-40954d2e508c)
-
+<img width="1431" alt="스크린샷 2024-02-28 오후 3 59 10" src="https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/b075739a-a919-45aa-9521-8ade80a7680d">
 
 <div style="font-size: 18px;"><p> 
 [11] (Album) Join the album as a piano session (2021.05.13) <a href="https://www.genie.co.kr/detail/albumInfo?axnm=82039383">[Link]</a>
@@ -26,7 +25,7 @@ permalink: /hobby
 <div style="font-size: 18px;"><p> 
 [9] (Recording & Video) Hwayobi - Something Like That (2021.02.28) <a href="https://www.youtube.com/watch?v=EhNlVuKVjSU">[Link]</a>
 </p></div>
-![mq2 (2)](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/93a5f6be-a335-487a-8365-c300c75a4fba)
+<img width="1440" alt="스크린샷 2024-02-28 오후 4 00 08" src="https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/4b33d741-00dd-4019-806d-248cceb65fdd">
 
 <div style="font-size: 18px;"><p> 
 [8] (Arrangement & Video) Welove - The Light Fills the Room (2021.02.20) <a href="https://www.youtube.com/watch?v=3JL_b2j_74M">[Link]</a>  <a href="https://www.youtube.com/watch?v=qmhErsVbVLk">[MR]</a>
@@ -36,17 +35,18 @@ permalink: /hobby
 <div style="font-size: 18px;"><p> 
 [7] (Recording & Video) Misty - Piano Cover (2021.02.11) <a href="https://youtu.be/PAgVdB6IkDg">[Link]</a>
 </p></div>
-![mqdefault (1)](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/e93933be-c009-4146-bf8b-a2a7efd52dd2)
+<img width="1440" alt="스크린샷 2024-02-28 오후 4 00 58" src="https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/ad0c80ba-9932-49a2-8eeb-484f5f598b29">
 
 
 <div style="font-size: 18px;"><p> 
 [6] (Arrangement & Video) IU - Celebrity (2021.01.31) <a href="https://youtu.be/-jJc5h2M20U">[Link]</a> 
 </p></div>
-![mqdefault](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/28137ac5-479a-42f6-ae2f-ab0fd81e60d7)
+<img width="1440" alt="스크린샷 2024-02-28 오후 4 01 56" src="https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/900295d5-dea4-46c8-921e-02d1874a6b51">
 
 <div style="font-size: 18px;"><p> 
 [5] (Arrangement & Video) Jukjae - Let's Go See The Stars (2021.01.24) <a href="https://www.youtube.com/watch?v=7ZzfVkd9y-k&t=37s">[Link]</a>  <a href="https://www.youtube.com/watch?v=thHp55TDWk0">[MR]</a> 
 </p></div>
+<img width="1136" alt="스크린샷 2024-02-28 오후 3 49 54" src="https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/7eff6a39-9c38-4953-b6f1-2b14c31ad1cd">
 
 <div style="font-size: 18px;"><p> 
 [4] (Arrangement & Piano & Video) BeWhy - My Star (2021.01.11) <a href="https://www.youtube.com/watch?v=uuFAw0NxtpQ">[Link]</a>  <a href="https://www.youtube.com/watch?v=4z3EG4XRjAU">[MR]</a>
@@ -56,12 +56,12 @@ permalink: /hobby
 <div style="font-size: 18px;"><p> 
 [3] (Arrangement & Video) Jukjae - Let's Go See The Stars (2020.11.19) <a href="https://www.youtube.com/watch?v=EhJDiCEFqWg">[Link]</a>
 </p></div>
-![mq2 (1)](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/dde2e58f-6c49-40ec-9a16-00d681d55ff1)
+<img width="1436" alt="스크린샷 2024-02-28 오후 4 03 15" src="https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/de512421-9596-4202-b63b-e711368fa7dd">
 
 <div style="font-size: 18px;"><p> 
 [2] (Piano Cover & Video) Joe Hisaishi - One Summer's Day (2020.09.13) <a href="https://youtu.be/iPtXkVuTBBU">[Link]</a> 
 </p></div>
-![mq2](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/1da1f670-dd96-4179-af44-2580dfc4d3f9)
+<img width="1349" alt="스크린샷 2024-02-28 오후 4 03 58" src="https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/ffde7184-fa0f-4eb7-9716-ded7c95cfef4">
 
 
 <div style="font-size: 18px;"><p> 

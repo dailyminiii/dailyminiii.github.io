@@ -9,11 +9,11 @@ tags: [sample]
 ![KakaoTalk_Photo_2024-02-28-10-23-32 001](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/f1b25080-a6d0-4766-925f-0ed64413338e)
 
 <div style="font-size: 18px;"><p>
-Welcome! My name is Minwoo Seong. My academic journey began in Mechanical Engineering during my undergraduate studies, which laid the foundation for my fascination with Human-Computer Interaction (HCI). This interest led me to pursue HCI for both my Master's and Ph.D. studies, focusing on creating technologies that enhance human experiences from a user-centered perspective.
+Welcome! My name is Minwoo Seong. My academic journey began in <u>Mechanical Engineering</u>u> during my undergraduate studies, which laid the foundation for my fascination with Human-Computer Interaction (HCI). This interest led me to pursue HCI for both my Master's and Ph.D. studies, focusing on creating technologies that enhance human experiences from a user-centered perspective.
 </p></div>
 
 <div style="font-size: 18px;"><p>
-I am particularly passionate about developing Artificial Intelligence systems that operate within human-centric frameworks and extending the realm of user experiences in music and sports through Virtual Reality (VR) and Augmented Reality (AR) environments. My research primarily revolves around utilizing wearable sensors to gather extensive human data. This data forms the backbone of the AI systems I build, aimed at providing feedback to users not only in physical spaces but also in virtual environments. This approach seeks to blur the lines between technology and human experience, paving the way for innovative and engaging user interactions.
+I am particularly passionate about developing <u>Artificial Intelligence systems that operate within human-centric frameworks and extending the realm of user experiences in music and sports through Virtual Reality (VR) and Augmented Reality (AR) environments</u>u>. My research primarily revolves around utilizing wearable sensors to gather extensive human data. This data forms the backbone of the AI systems I build, aimed at providing feedback to users not only in physical spaces but also in virtual environments. This approach seeks to blur the lines between technology and human experience, paving the way for innovative and engaging user interactions.
 </p></div>
 
 <div style="font-size: 18px;"><p>
@@ -27,6 +27,9 @@ For more in-depth information about my projects and writings, feel free to visit
  [3] (Sep 2023 ~ Present) Ph.D. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
   </p>
 </div>
+
+<div style="margin-right: 20px;">Box 1</div>
+<div>Box 2</div>
 
 <div style="font-size: 18px;">
  <p>
@@ -42,7 +45,7 @@ For more in-depth information about my projects and writings, feel free to visit
 
 <div style="font-size: 18px;">
  <p>
- M.S. Thesis: MultiSenseBadminton: Wearable Sensor-Based Biomechanical Dataset for Evaluation of Badminton Performance
+ <span style="font-weight: bold;">M.S. Thesis: MultiSenseBadminton: Wearable Sensor-Based Biomechanical Dataset for Evaluation of Badminton Performance</span> 
 </p>
 </div>
 
@@ -50,11 +53,14 @@ For more in-depth information about my projects and writings, feel free to visit
 
 <div style="font-size: 18px;"><p>A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning</p></div>
 
+<div style="margin-right: 20px;">Box 1</div>
+<div>Box 2</div>
+
 <div style="font-size: 18px;"><p>[1] (Mar 2017 ~ Aug 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</p></div>
  
 <div style="font-size: 18px;"><p>Committee Members: <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a></p></div>
 
-<div style="font-size: 18px;"><p>B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</p></div>
+<div style="font-size: 18px;"><p><span style="font-weight: bold;">B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</span></p></div>
 
 <div style="font-size: 18px;"><p>TGPA: 3.31, Major GPA: 3.75</p></div>
 

@@ -4,24 +4,20 @@ category: resources
 permalink: /publications
 ---
 
-## Publications
-
 #### International
 
 <div style="font-size: 18px;"><p> 
 <img src="https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/52e4a8b2-a50f-4d52-949a-ec4361fc658a" alt="이미지 설명" style="float: left; margin-right: 20px;", style="width: 200px; height: auto;">
-[4] Kim, W., Seong, M., Kim, K.,  Kim, S. (2024).Engagnition: A Multi-Dimensional Dataset for Engagement Recognition of Children with Autism Spectrum Disorder. Scientific Data. <span style="color: red;">(Under Review)</span>
+[4] <u>Kim, W.</u>, <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, K.,  Kim, S. (2024).Engagnition: A Multi-Dimensional Dataset for Engagement Recognition of Children with Autism Spectrum Disorder. Scientific Data. (<u>Underline</u> means Equally contributed 1st author) <span style="color: blue;">(Under Review)</span>
 </p></div>
-
-
 
 
 <div style="font-size: 18px;"><p>  
-[3] Seong, M., Kim, G., Yeo, D., Kang, Y., Yang, H., DelPreto. J., Matusik., W., Rus., D., Kim, S. (2024). MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance. Scientific Data. <span style="color: red;">(Accepted)</span>
+[3] <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, G., Yeo, D., Kang, Y., Yang, H., DelPreto. J., Matusik., W., Rus., D., Kim, S. (2024). MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance. Scientific Data. <span style="color: blue;">(Accepted)</span>
 </p></div>
 
 <div style="font-size: 18px;"><p>   
-[2] Hwang, S., Oh, J., Kang, S., <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Elsharkawy, A., and Kim, S. (2024). ErgoPulse: Electrifying Your Lower Body With Biomechanical Simulation-based Electrical Muscle Stimulation Haptic System in Virtual Reality. Proceedings of the 2024 CHI - <span style="color: red;">(Accepted)</span>
+[2] Hwang, S., Oh, J., Kang, S., <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Elsharkawy, A., and Kim, S. (2024). ErgoPulse: Electrifying Your Lower Body With Biomechanical Simulation-based Electrical Muscle Stimulation Haptic System in Virtual Reality. Proceedings of the 2024 CHI - <span style="color: blue;">(Accepted)</span>
 </p></div>
 
 <div style="font-size: 18px;"><p>   
@@ -61,47 +57,47 @@ permalink: /publications
 ## Extra Projects
 
 <div style="font-size: 18px;"><p>
-### [9] Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022)
+[9] Design and Manufacture of Motion Platform for XR-based Autonomous Vehicle Simulation (May 2022 ~ June 2022)
 ![Profile](/assets/img/MotionSimulator.jpg)
 </p></div>
 
 <div style="font-size: 18px;"><p>
-### [8] Reinforcement Learning Project: Geometry Friends (May 2022 ~ June 2022, Lecture Term Project)
+[8] Reinforcement Learning Project: Geometry Friends (May 2022 ~ June 2022, Lecture Term Project)
 ![Profile](/assets/img/RL.png)
 </p></div>
 
 <div style="font-size: 18px;"><p>
-### [7] Force Control for Rendering Softness (May 2022 ~ June 2022, Lecture Term Project)
+[7] Force Control for Rendering Softness (May 2022 ~ June 2022, Lecture Term Project)
 ![Profile](/assets/img/RobotControl.png)
 </p></div>
 
 <div style="font-size: 18px;"><p>
-### [6] Table Tennis Paddle Design and Content Production for Virtual Reality Interaction (May 2022 ~ June 2022, Lecture Term Project)
+[6] Table Tennis Paddle Design and Content Production for Virtual Reality Interaction (May 2022 ~ June 2022, Lecture Term Project)
 ![Profile](/assets/img/VRTableTennis.png)
 </p></div>
 
 <div style="font-size: 18px;"><p>
-### [5] Production of In-car XR content using Visuo-Haptic Co-location Technology (Sep 2021 ~ Dec 2021)
+[5] Production of In-car XR content using Visuo-Haptic Co-location Technology (Sep 2021 ~ Dec 2021)
 ![Profile](/assets/img/SR.gif)
 </p></div>
 
 <div style="font-size: 18px;"><p>
-### [4] In-car XR Halloween Contents (July 2021 ~ Aug 2021, Research Intern)
+[4] In-car XR Halloween Contents (July 2021 ~ Aug 2021, Research Intern)
 ![Profile](/assets/img/XRcontents.gif)
 </p></div>
 
 <div style="font-size: 18px;"><p>
-### [3] Robot Control for Piano Ensemble (May 2021 ~ June 2021, Lecture Term Project)
+[3] Robot Control for Piano Ensemble (May 2021 ~ June 2021, Lecture Term Project)
 ![Profile](/assets/img/robotpiano.gif)
 </p></div>
 
 <div style="font-size: 18px;"><p>
-### [2] Classification of multiple Instruments by Using DL Models (May 2021, Lecture Term Project)
+[2] Classification of multiple Instruments by Using DL Models (May 2021, Lecture Term Project)
 ![Profile](/assets/img/DeepLearning.png)
 </p></div>
 
 <div style="font-size: 18px;"><p>
-### [1] Life Prediction of the Solder Resistor with Fatigue Failure Mechanism (Jul 2020 ~ Aug 2020, Research Intern)
+[1] Life Prediction of the Solder Resistor with Fatigue Failure Mechanism (Jul 2020 ~ Aug 2020, Research Intern)
 ![Profile](/assets/img/solder.jpg)
 </p></div>
 

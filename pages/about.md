@@ -29,50 +29,40 @@ For more in-depth information about my projects and writings, feel free to visit
 </div>
 
 
-
-
-<div style="margin-right: 20px;"></div>
-<div></div>
-
 <div style="font-size: 18px;">
  <p>
  [2] (Sep. 2021 ~ Aug. 2023) M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
  </p>
 </div>
 
-<div style="font-size: 18px;">
- <p>
+<div style="font-size: 16px;">
+ <div style="margin-left: 20px;"><p>
  Committee Members: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a>, <a href="https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko">Jin-Hyuk Hong</a>, <a href="https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en">Kyung-Joong Kim</a>, <a href="https://www.csail.mit.edu/person/daniela-rus">Daniela Rus</a>
  </p>
-</div>
+</div></div>
 
-<div style="font-size: 18px;">
- <p>
+<div style="font-size: 16px;">
+ <div style="margin-left: 20px;"><p>
  <span style="font-weight: bold;">M.S. Thesis: MultiSenseBadminton: Wearable Sensor-Based Biomechanical Dataset for Evaluation of Badminton Performance</span> 
 </p>
-</div>
+</div></div>
 
-<div style="font-size: 18px;"><p>TGPA: 4.25</p></div>
+<div style="font-size: 16px;"><div style="margin-left: 20px;"><p>TGPA: 4.25</p></div></div>
 
-<div style="font-size: 18px;"><p>A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning</p></div>
-
-
-
-
-<div style="margin-right: 20px;"></div>
-<div></div>
+<div style="font-size: 16px;"><div style="margin-left: 20px;"><p>A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning</p></div></div>
 
 
 
-<div style="font-size: 18px;"><p>[1] (Mar 2017. ~ Aug. 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</p></div></div>
+
+<div style="font-size: 18px;"><p>[1] (Mar 2017. ~ Aug. 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</p></div>
  
-<div style="font-size: 18px;"><div style="margin-left: 20px;"><p>Committee Members: <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a></p></div></div>
+<div style="font-size: 16px;"><div style="margin-left: 20px;"><p>Committee Members: <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a></p></div></div>
 
-<div style="font-size: 18px;"><div style="margin-left: 20px;"><p><span style="font-weight: bold;">B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</span></p></div></div>
+<div style="font-size: 16px;"><div style="margin-left: 20px;"><p><span style="font-weight: bold;">B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</span></p></div></div>
 
-<div style="font-size: 18px;"><div style="margin-left: 20px;"><p>TGPA: 3.31, Major GPA: 3.75</p></div></div>
+<div style="font-size: 16px;"><div style="margin-left: 20px;"><p>TGPA: 3.31, Major GPA: 3.75</p></div></div>
 
-<div style="font-size: 18px;"><div style="margin-left: 20px;"><p>A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div></div>
+<div style="font-size: 16px;"><div style="margin-left: 20px;"><p>A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div></div>
 
 
 

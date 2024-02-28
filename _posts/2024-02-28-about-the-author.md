@@ -14,7 +14,7 @@ Welcome to my personal homepage! I'm Minwoo Seong, deeply passionate about explo
 </p></div>
 
 <div style="font-size: 24px;"><p><strong>
-Academic and Professional Pursuits:
+Envisioning a Human-Centered Technological Horizon
 </strong></p></div>
   
 <div style="font-size: 18px;"><p>
@@ -26,7 +26,7 @@ Right now, I'm especially drawn to using AI to help beginners in sports. This in
 </p></div>
 
 <div style="font-size: 24px;"><p><strong>
-Creative Explorations and Philosophical Inquiry:
+Notes from the Heart: Bridging Personal Passion with Musical Exploration
 </strong></p></div>
   
 <div style="font-size: 18px;"><p>

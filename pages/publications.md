@@ -60,13 +60,13 @@ permalink: /publications
 
 <div style="font-size: 18px;"><p>
 [2] Mobility-Linked Virtual Reality-Based Underwater Exploration Immersive Content Game Software (Underwater Exploration & Ocean Trash Collection Game)
-Kim, S., Kang, S., Kang, Y., Kim, K., Seong, M., An, E., Yang, H., Yeo, D., Oh, J., Jeon, H., Jo, T., and Hwang, S.
+Kim, S., Kang, S., Kang, Y., Kim, K., <mark style='background-color: #fff5b1'>Seong, M.</mark>, An, E., Yang, H., Yeo, D., Oh, J., Jeon, H., Jo, T., and Hwang, S.
 Copyright for Computer Program Works C-2022-050134
 </p></div>
 
 <div style="font-size: 18px;"><p>
 [1] Mobility-Linked Virtual Reality-Based Underwater Exploration Immersive Content Game Software (Underwater Exploration & Underwater Gem Collection Game)
-Kim, S., Kang, S., Kang, Y., Kim, K., Seong, M., An, E., Yang, H., Yeo, D., Oh, J., Jeon, H., Jo, T., and Hwang, S.
+Kim, S., Kang, S., Kang, Y., Kim, K., <mark style='background-color: #fff5b1'>Seong, M.</mark>, An, E., Yang, H., Yeo, D., Oh, J., Jeon, H., Jo, T., and Hwang, S.
 Copyright for Computer Program Works C-2022-050133
 </p></div>
 

@@ -7,12 +7,34 @@ tags: [sample]
 image: author.jpg
 ---
 
-Hi there! I am Minwoo Seong, deeply engaged in the interplay between Human-Computer Interaction (HCI), Virtual Reality (VR), and Artificial Intelligence (AI). My academic journey and professional endeavors are anchored in a commitment to utilize these technologies to enhance human experiences across diverse realms such as education, healthcare, and sports. Through an interdisciplinary lens, my aim is to explore the potential of technology to address complex societal challenges while fostering positive societal impacts.
+<div style="font-size: 18px;"><p>
+Welcome to my personal homepage! I'm Minwoo Seong, deeply passionate about exploring the exciting world of Human-Computer Interaction (HCI), Virtual Reality (VR), and Artificial Intelligence (AI). My journey in these fields is driven by a simple yet profound goal: to use technology to make our lives better, especially in education, music, healthcare, and sports. Here, you'll find a blend of my academic pursuits, creative projects, and a snapshot of my contributions to both the technological and artistic communities.
+</p></div>
 
-Central to my research ethos is the conviction that technology should act as an enhancer of human capabilities, broadening the scope of what we can achieve. This guiding principle has been the foundation of my involvement in leading-edge projects like "Engagnition," dedicated to creating a multi-dimensional dataset for recognizing engagement in children with Autism Spectrum Disorder, and "MultiSenseBadminton," which introduces a wearable sensor-based biomechanical dataset aimed at improving badminton performance. These initiatives highlight my commitment to using technology as a tool for social betterment, providing innovative solutions tailored to meet diverse needs.
+<div style="font-size: 24px;"><p><strong>
+Academic and Professional Pursuits:
+</strong></p></div>
 
-My efforts to merge the physical and digital realms, particularly through projects like "ErgoPulse," underscore my dedication to enhancing the way humans interact with technology. By creating immersive VR environments, my goal is to establish a more intuitive interface between users and technology, where the augmentation of human potential is balanced with the essence of human experience.
+<div style="font-size: 18px;"><p>
+My academic path has taken me to the intersection of HCI, VR, and AI, where I've had the privilege of collaborating with esteemed institutions like MIT's CSAIL group. These collaborations have enriched my research, allowing me to work on groundbreaking projects that seek to understand and enhance human experiences through technology. Whether it's developing datasets to better understand engagement in children with Autism Spectrum Disorder or creating wearable sensor-based systems to improve athletic performance, my work is about using tech for good.
+</p></div>
 
-Beyond my scholarly work, my involvement in copyright content creation and technological competitions speaks to my broad skill set and creative thinking. Whether it's designing immersive content for VR-based underwater exploration or analyzing future trends in sports performance, my projects span a broad spectrum, each aimed at pushing technological boundaries while staying connected to real-world applications.
+<div style="font-size: 24px;"><p><strong>
+Creative Explorations:
+</strong></p></div>
 
-At its core, my research and projects are driven by a singular goal: to advance the fields of HCI, VR, and AI in ways that not only deepen our engagement with technology but also contribute to a more inclusive and enriching future for everyone. Through ongoing exploration and innovation, I seek to uncover new paths where technology acts as a catalyst for positive transformation, enhancing lives and broadening the scope of human experiences.
+<div style="font-size: 18px;"><p>
+Beyond academia, music and art hold a special place in my heart. I've ventured into the world of music, arranging, recording, and producing a variety of pieces that range from classical covers to original compositions. These projects not only showcase my love for music but also how technology can intersect with art to create something truly unique.
+</p></div>
+
+<div style="font-size: 24px;"><p><strong>
+A Vision for the Future:
+</strong></p></div>
+
+<div style="font-size: 18px;"><p>
+At the core of my work is the belief that technology should serve as a catalyst for positive change, enriching lives and expanding the scope of human experiences. Through ongoing exploration and innovation, I'm excited to uncover new paths where technology not only deepens our engagement with the digital world but also fosters a more inclusive, engaging, and vibrant future for everyone.
+</p></div>
+
+<div style="font-size: 18px;"><p>
+Thank you for visiting my page. I invite you to explore my projects, music, and the journey I've embarked on to make a difference through technology.
+</p></div>

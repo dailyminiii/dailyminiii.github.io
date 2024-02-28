@@ -20,7 +20,7 @@ I am particularly passionate about developing Artificial Intelligence systems th
 For more in-depth information about my projects and writings, feel free to visit [my personal website](https://dailyminiii.github.io/). Additionally, my homepage features sections dedicated to both my research and personal hobbies and activities. I invite you to explore and hope you find the content both enlightening and enjoyable.
 </p></div>
 
-# Education
+## Education
 
 <div style="font-size: 18px;">
  <p>
@@ -62,7 +62,7 @@ For more in-depth information about my projects and writings, feel free to visit
 
 
 
-# News
+## News
 <div style="font-size: 18px;">
   <p>
   [4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)
@@ -96,7 +96,7 @@ For more in-depth information about my projects and writings, feel free to visit
  </div>
 
 
-# Contact
+## Contact
 
 <div style="font-size: 18px;"><p>E-mail: seongminwoo(at).gm.gist.ac.kr</p></div>
 

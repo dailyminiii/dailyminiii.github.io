@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Hobbies & Extra Activities
 category: resources
 permalink: /hobby
 ---
 
-### Music
+<div style="font-size: 25px;"><p>  <strong>Music</strong> </p></div>
 
 <div style="font-size: 18px;"><p> 
 [11] (Recording & Video) Isn'ts she lovely - Funk Ver (2024.01.27) <a href="https://www.youtube.com/watch?v=VWYnW5j7uwQ">[Link]</a>
@@ -52,7 +51,7 @@ permalink: /hobby
 [1] (Loop Station & Video) ZICO - Any Song (2020.07.17) <a href="https://youtu.be/-6O83N8HiWM">[Link]</a> 
 </p></div>
 
-### Photo Album
+<div style="font-size: 25px;"><p>  <strong>Photo Album</strong> </p></div>
 
 <div style="font-size: 18px;"><p> 
 <a href="https://minwooseong.notion.site/Photo-Portfolio-a967e9c2178545a7b77d9c7129267535?pvs=4)">[Photo Link]</a> 
@@ -60,7 +59,7 @@ permalink: /hobby
 ![Profile](/assets/img/Photo.png)
 
 
-### Extra Activities
+<div style="font-size: 25px;"><p>  <strong>Extra Activities</strong> </p></div>
 
 <div style="font-size: 18px;"><p> 
 [3] GIST Infinite Challenge Project (WMVW), GIST College (2021.03 ~ 2021.12)

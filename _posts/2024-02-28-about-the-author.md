@@ -4,7 +4,7 @@ title: "About the Author"
 author: "Minwoo Seong"
 categories: facts
 tags: [sample]
-image: 스크린샷 2024-02-28 오후 5.42.20.png
+image: author.jpg
 ---
 
 Hi there! I am Minwoo Seong, deeply engaged in the interplay between Human-Computer Interaction (HCI), Virtual Reality (VR), and Artificial Intelligence (AI). My academic journey and professional endeavors are anchored in a commitment to utilize these technologies to enhance human experiences across diverse realms such as education, healthcare, and sports. Through an interdisciplinary lens, my aim is to explore the potential of technology to address complex societal challenges while fostering positive societal impacts.

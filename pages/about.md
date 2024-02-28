@@ -9,7 +9,7 @@ tags: [sample]
 ![KakaoTalk_Photo_2024-02-28-10-23-32 001](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/f1b25080-a6d0-4766-925f-0ed64413338e)
 
 <div style="font-size: 18px;"><p>
-Welcome! My name is Minwoo Seong. My academic journey began in <u>Mechanical Engineering</u>u> during my undergraduate studies, which laid the foundation for my fascination with Human-Computer Interaction (HCI). This interest led me to pursue HCI for both my Master's and Ph.D. studies, focusing on creating technologies that enhance human experiences from a user-centered perspective.
+Welcome! My name is Minwoo Seong. My academic journey began in <u>Mechanical Engineering</u> during my undergraduate studies, which laid the foundation for my fascination with Human-Computer Interaction (HCI). This interest led me to pursue HCI for both my Master's and Ph.D. studies, focusing on creating technologies that enhance human experiences from a user-centered perspective.
 </p></div>
 
 <div style="font-size: 18px;"><p>

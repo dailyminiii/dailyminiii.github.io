@@ -25,7 +25,7 @@ permalink: /experiences
 ![스크린샷 2024-02-28 오후 3 19 25](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/5ac98921-112e-4659-a016-1838c57dbd98)
 
 
-<div style="font-size: 18px;"><p> [2] UIST 2022, Bend, Oregon, USA (Oct. 2022)
+<div style="font-size: 18px;"><p> [2] UIST 2022, Bend, Oregon, USA (Oct. 2022) <a href="https://www.youtube.com/watch?v=bdIcpcGbDZI&t=4s">[VLOG Link]</a>
 </p></div>
 ![스크린샷 2024-02-28 오후 3 20 24](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/0c704a09-b711-452f-ab79-8dc24f13209a)
 

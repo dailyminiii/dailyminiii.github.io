@@ -4,7 +4,7 @@ category: resources
 permalink: /publications
 ---
 
-#### International
+### International
 
 <div style="font-size: 18px;"><p> 
 [4] <u>Kim, W.</u>, <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, K.,  Kim, S. (2024).Engagnition: A Multi-Dimensional Dataset for Engagement Recognition of Children with Autism Spectrum Disorder. Scientific Data. (<u>Underline</u> means Equally contributed 1st author) <span style="color: blue;">(Under Review)</span>

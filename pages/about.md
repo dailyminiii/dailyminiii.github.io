@@ -64,7 +64,19 @@ For more in-depth information about my projects and writings, feel free to visit
 
 <div style="font-size: 16px;"><div style="margin-left: 20px;"><p>A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div></div>
 
+## Research Interest
 
+∙ Human-Computer Interaction 
+
+∙ Deep Learning & Machine Learning
+
+∙ Sensor-based Technology 
+
+∙ Virtual Reality & Augmented Reality
+
+∙ Human-centered Haptic Interface
+
+∙ Wearable Device
 
 ## News
 <div style="font-size: 18px;">

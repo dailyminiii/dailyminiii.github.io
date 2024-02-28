@@ -16,7 +16,7 @@ permalink: /experiences
 <div style="font-size: 20px;"><p> 2021 Visiting (2021.11.28. ~ 2021.12.04.) </p></div>
 ![Profile](/assets/img/2021MIT.png)
 
-### Participating Conferences
+<div style="font-size: 28px;"><p> <strong> Participating Conferences </strong> </p></div>
 
 <div style="font-size: 18px;"><p> [4] Ubicomp 2023, Cancun, Mexico (Oct. 2023)
 </p></div>
@@ -36,7 +36,7 @@ permalink: /experiences
 </p></div>
 ![스크린샷 2024-02-28 오후 2 54 48](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/c4f3c1be-0fcb-4809-96c2-0525e8433db0)
 
-## Research Projects
+<div style="font-size: 28px;"><p> <strong> Research Projects </strong> </p></div>
 
 <div style="font-size: 18px;"><p> [5] HCI+AI convergence research for human-centered physical system design (GK14780) (Sep. 2021 ~ Present)
 </p></div>
@@ -53,13 +53,13 @@ permalink: /experiences
 <div style="font-size: 18px;"><p> [1] Development of content creation and entertainment technologies based on intelligent authoring tool to enhance accessibility of social communication disabilities funded by the Ministry of Culture Sports and Tourism & Korea Creative Content Agency (GM14500) (Sep.2020 ~ Dec. 2021) 
 </p></div>
 
-### Teaching Experience 
+<div style="font-size: 28px;"><p> <strong>  Teaching Experience  </strong> </p></div>
 
 <div style="font-size: 18px;"><p>[2] Teaching Assistant: Research Method in Human-Computer Interaction (Sep.  2022 ~ Dec. 2022)</p></div>
 
 <div style="font-size: 18px;"><p>[1] 2019 GIST Science Camp, Korea (GIST) (Jan. 2019) - Delivering hands-on and conceptual learning experiences to elementary and middle schoolers in the local community </p></div>
 
-### Awards & Scholarships
+<div style="font-size: 28px;"><p> <strong>  Awards & Scholarships </strong> </p></div>
 
 <div style="font-size: 18px;"><p>[7] GIST Ph.D. Degree Government Scholarship (Government supported), 4 years, Full funding (Sep. 2023 ~ present)</p></div>
 
@@ -76,11 +76,11 @@ permalink: /experiences
 <div style="font-size: 18px;"><p>[1] GIST Bachelor's Degree Government Scholarship (Government supported), 4 years, Full funding (Sep. 2017 ~ Aug. 2021)</p></div>
 
 
-### Certificate
+<div style="font-size: 28px;"><p> <strong> Certificate </strong> </p></div>
 
 <div style="font-size: 18px;"><p>[1] HP 3D Operator Training and Certification for 4200 and PA 12 (Acquired in 2022)</p></div>
 
 
-### Technical Strength
+ <div style="font-size: 28px;"><p> <strong> Technical Strength  </strong> </p></div>
 ![Profile](/assets/img/Technic.png)
 

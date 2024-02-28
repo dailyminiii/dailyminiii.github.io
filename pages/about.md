@@ -66,13 +66,13 @@ For more in-depth information about my projects and writings, feel free to visit
 
 <div style="font-size: 18px;"><p>[1] (Mar 2017 ~ Aug 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</p></div>
  
-<div style="font-size: 18px;"><p>Committee Members: <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a></p></div>
+<div style="font-size: 18px;"><p>&nbsp;&nbsp;Committee Members: <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a></p></div>
 
-<div style="font-size: 18px;"><p><span style="font-weight: bold;">B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</span></p></div>
+<div style="font-size: 18px;"><p><span style="font-weight: bold;">&nbsp;&nbsp;B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</span></p></div>
 
-<div style="font-size: 18px;"><p>TGPA: 3.31, Major GPA: 3.75</p></div>
+<div style="font-size: 18px;"><p>&nbsp;&nbsp;TGPA: 3.31, Major GPA: 3.75</p></div>
 
-<div style="font-size: 18px;"><p>A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div>
+<div style="font-size: 18px;"><p>&nbsp;&nbsp;A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div>
 
 
 

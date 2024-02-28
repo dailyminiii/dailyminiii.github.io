@@ -82,6 +82,11 @@ For more in-depth information about my projects and writings, feel free to visit
 <div style="font-size: 18px;">
   <p>
   [4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)
+   <a href="https://www.hellodd.com/news/articleView.html?idxno=101474">link1</a>
+    <a href="https://m.dhnews.co.kr/news/view/1065572047910822">link2</a>
+    <a href="https://mobile.newsis.com/view.html?ar_id=NISX20230817_0002416497#_PA">link3</a>
+    <a href="http://m.jndn.com/article.php?aid=1692253688367605011">link4</a>
+    <a href="https://www.aitimes.kr/news/articleView.html?idxno=28740">link5</a>
    </p>
  </div>
  

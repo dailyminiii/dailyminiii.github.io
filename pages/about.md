@@ -22,53 +22,81 @@ For more in-depth information about my projects and writings, feel free to visit
 
 # Education
 
-<p><div style="font-size: 18px;">[3] (Sep 2023 ~ Present) Ph.D. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)</p></div>
+<div style="font-size: 18px;">
+ <p>
+ [3] (Sep 2023 ~ Present) Ph.D. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
+  </p>
+</div>
 
-<p><div style="font-size: 18px;">[2] (Sep 2021 ~ Present) M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)</p></div>
+<div style="font-size: 18px;">
+ <p>
+ [2] (Sep 2021 ~ Present) M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
+ </p>
+</div>
 
-<p><div style="font-size: 18px;">Committee Members: [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao), [Jin-Hyuk Hong](https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko), [Kyung-Joong Kim](https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en), [Daniela Rus](https://www.csail.mit.edu/person/daniela-rus)</p></div>
+<div style="font-size: 18px;">
+ <p>
+ Committee Members: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a>, <a href="https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko">Jin-Hyuk Hong</a>, <a href="https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en">Kyung-Joong Kim</a>, <a href="https://www.csail.mit.edu/person/daniela-rus">Daniela Rus</a>
+ </p>
+</div>
 
-<p><div style="font-size: 18px;">M.S. Thesis: MultiSenseBadminton: Wearable Sensor-Based Biomechanical Dataset for Evaluation of Badminton Performance</div></p>
+<div style="font-size: 18px;">
+ <p>
+ M.S. Thesis: MultiSenseBadminton: Wearable Sensor-Based Biomechanical Dataset for Evaluation of Badminton Performance
+</p>
+</div>
 
-<p><div style="font-size: 18px;">TGPA: 4.25</div></p>
+<div style="font-size: 18px;"><p>TGPA: 4.25</p></div>
 
-<p><div style="font-size: 18px;">A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning</div></p>
+<div style="font-size: 18px;"><p>A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning</p></div>
 
-<p><div style="font-size: 18px;">[1] (Mar 2017 ~ Aug 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</div></p>
+<div style="font-size: 18px;"><p>[1] (Mar 2017 ~ Aug 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</p></div>
  
-<p><div style="font-size: 18px;">[Committee Members: [Hyosung Ahn](https://sites.google.com/view/hyosungahn/), [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao)</div></p>
+<div style="font-size: 18px;"><p>Committee Members: <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a></p></div>
 
-<p><div style="font-size: 18px;">B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</div></p>
+<div style="font-size: 18px;"><p>B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</p></div>
 
-<p><div style="font-size: 18px;">TGPA: 3.31, Major GPA: 3.75</div></p>
+<div style="font-size: 18px;"><p>TGPA: 3.31, Major GPA: 3.75</p></div>
 
-<p><div style="font-size: 18px;">A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</div></p>
+<div style="font-size: 18px;"><p>A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div>
 
 
 
 # News
- <p><div style="font-size: 18px;">[4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)</div></p>
+<div style="font-size: 18px;">
+  <p>
+  [4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)
+   </p>
+ </div>
  
 
 <div style="font-size: 18px;">
+  <p>
     [3] KCC 2022 Best Paper Award 🏆
     <a href="http://www.chum-dan.net/news/articleView.html?idxno=6089">link1</a>
     <a href="https://news.unn.net/news/articleView.html?idxno=531642">link2</a>
     <a href="https://www.news1.kr/articles/?4753497">link3</a>
     <a href="https://news.nate.com/view/20220726n07118">link4</a>
     <a href="https://news.nate.com/view/20220726n07367">link5</a>
+  </p>
 </div>
  
  
  <div style="font-size: 18px;">
+  <p>
   [2] Attending GIST-MIT workshop <a href="https://www.etnews.com/20220711000027">link</a>
+   </p>
  </div>
  
  
- <p><div style="font-size: 18px;">[1] 2019 GIST Photo Contest Winner [[link]](https://www.gist.ac.kr/kr/html/sub06/060101.html?mode=V&no=194113)</div></p>
+<div style="font-size: 18px;">
+  <p>
+  [1] 2019 GIST Photo Contest Winner <a href="https://www.gist.ac.kr/kr/html/sub06/060101.html?mode=V&no=194113">link</a>
+   </p>
+ </div>
 
 
 # Contact
 
-<p><div style="font-size: 18px;">E-mail: seongminwoo(at).gm.gist.ac.kr</div></p>
+<div style="font-size: 18px;"><p>E-mail: seongminwoo(at).gm.gist.ac.kr</p></div>
 

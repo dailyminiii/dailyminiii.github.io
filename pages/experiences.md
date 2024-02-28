@@ -4,7 +4,7 @@ category: resources
 permalink: /experiences
 ---
 
-<div style="font-size: 24px;"><p> <strong>Research Collaboration with MIT CSAIL Group </strong> </p></div>
+<div style="font-size: 32px;"><p> <strong>Research Collaboration with MIT CSAIL Group </strong> </p></div>
 
 <div style="font-size: 20px;"><p> 2023 Visiting (2023.10.02. ~ 2023.10.30.) </p></div>
 ![스크린샷 2024-02-28 오후 3 19 51](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/406071ea-249e-4ee4-a508-181b1e94473f)

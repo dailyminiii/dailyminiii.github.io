@@ -20,7 +20,7 @@ I am particularly passionate about developing <u>Artificial Intelligence systems
 For more in-depth information about my projects and writings, feel free to visit <a href="https://dailyminiii.github.io/">my personal website</a>. Additionally, my homepage features sections dedicated to both my research and personal hobbies and activities. I invite you to explore and hope you find the content both enlightening and enjoyable.
 </p></div>
 
-## Education
+### Education
 
 <div style="font-size: 18px;">
  <p>
@@ -64,21 +64,21 @@ For more in-depth information about my projects and writings, feel free to visit
 
 <div style="font-size: 16px;"><div style="margin-left: 20px;"><p>A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div></div>
 
-## Research Interest
+### Research Interest
 
-∙ Human-Computer Interaction 
+<div style="font-size: 18px;">∙ Human-Computer Interaction </p></div>
 
-∙ Deep Learning & Machine Learning
+<div style="font-size: 18px;">∙ Deep Learning & Machine Learning</p></div>
 
-∙ Sensor-based Technology 
+<div style="font-size: 18px;">∙ Sensor-based Technology </p></div>
 
-∙ Virtual Reality & Augmented Reality
+<div style="font-size: 18px;">∙ Virtual Reality & Augmented Reality</p></div>
 
-∙ Human-centered Haptic Interface
+<div style="font-size: 18px;">∙ Human-centered Haptic Interface</p></div>
 
-∙ Wearable Device
+<div style="font-size: 18px;">∙ Wearable Device</p></div>
 
-## News
+### News
 <div style="font-size: 18px;">
   <p>
   [4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)
@@ -112,7 +112,7 @@ For more in-depth information about my projects and writings, feel free to visit
  </div>
 
 
-## Contact
+### Contact
 
 <div style="font-size: 18px;"><p>E-mail: seongminwoo(at).gm.gist.ac.kr</p></div>
 

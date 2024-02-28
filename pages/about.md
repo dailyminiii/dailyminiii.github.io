@@ -9,15 +9,15 @@ tags: [sample]
 ![KakaoTalk_Photo_2024-02-28-10-23-32 001](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/f1b25080-a6d0-4766-925f-0ed64413338e)
 
 <div style="font-size: 18px;"><p>
-Welcome! My name is Minwoo Seong. My academic journey began in <u>Mechanical Engineering</u> during my undergraduate studies, which laid the foundation for my fascination with Human-Computer Interaction (HCI). This interest led me to pursue HCI for both my Master's and Ph.D. studies, focusing on creating technologies that enhance human experiences from a user-centered perspective.
+Welcome! I'm Minwoo Seong. I started my academic path with Mechanical Engineering in my undergrad years, sparking my interest in Human-Computer Interaction (HCI). This curiosity drove me to study HCI further in my Master's and Ph.D., where I've been working on technologies designed to improve how we experience the world, all from a user-focused viewpoint.
 </p></div>
 
 <div style="font-size: 18px;"><p>
-I am particularly passionate about developing <u>Artificial Intelligence systems that operate within human-centric frameworks and extending the realm of user experiences in music and sports through Virtual Reality (VR) and Augmented Reality (AR) environments</u>. My research primarily revolves around utilizing wearable sensors to gather extensive human data. This data forms the backbone of the AI systems I build, aimed at providing feedback to users not only in physical spaces but also in virtual environments. This approach seeks to blur the lines between technology and human experience, paving the way for innovative and engaging user interactions.
+I'm excited about creating Artificial Intelligence (AI) systems that focus on people and expanding how we experience music and sports with Virtual Reality (VR) and Augmented Reality (AR). A big part of my work is about using wearable sensors to collect a lot of data from people. This data is crucial for the AI systems I develop, which help give feedback to users, both in the real world and in virtual spaces. I aim to make the boundaries between technology and human experiences less distinct, leading to new and captivating ways for people to interact with technology.
 </p></div>
 
 <div style="font-size: 18px;"><p>
-For more in-depth information about my projects and writings, feel free to visit <a href="https://dailyminiii.github.io/">my personal website</a>. Additionally, my homepage features sections dedicated to both my research and personal hobbies and activities. I invite you to explore and hope you find the content both enlightening and enjoyable.
+For more in-depth information about my projects and writings, feel free to visit <a href="https://dailyminiii.github.io/">my personal website</a>. You'll also find areas on my homepage that show what I research and what I enjoy doing in my free time. Feel free to look around, and I hope you find something interesting and fun.
 </p></div>
 
 ### Education

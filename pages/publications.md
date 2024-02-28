@@ -34,7 +34,7 @@ permalink: /publications
 ![Profile](/assets/img/VR Interface.png)
 
 <div style="font-size: 18px;"><p>
-[3] Jeon, H. S., Oh, J. S., Seong, E. J., <mark style='background-color: #fff5b1'>Seong M.W.</mark>, Kim, S. J. (2022). Surveys of User’s Perception Towards Foot Gesture and Exploration of Applicability. In Proceedings of HCI Korea 2022, Vol. 2022. <a href="https://drive.google.com/file/d/1Zefz_ERz1FURbhVKovUR7AWkqHvP2uVB/view">pdf</a>
+[3] Jeon, H. S., Oh, J. S., Seong, E. J., <mark style='background-color: #fff5b1'>Seong M.W.</mark>, Kim, S. J. (2022). Surveys of User’s Perception Towards Foot Gesture and Exploration of Applicability. In Proceedings of HCI Korea 2022, Vol. 2022. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11043851">pdf</a>
 </p></div>
 ![스크린샷 2024-02-28 오후 2 20 52](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/81d40462-df38-4b5a-9b46-e3800524ccf8)
 
@@ -44,7 +44,7 @@ permalink: /publications
 ![Profile](/assets/img/DL.png)
 
 <div style="font-size: 18px;"><p>
-[1] Seong, E. J., Kim, W., Lee, J. W., <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, S. J. (2021). Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability. In Proceedings of HCI Korea 2021, Vol. 2021. <a href="https://drive.google.com/file/d/1aj8kNSi5NoZGOwl4PgPRwEGtiPqkclyj/view">pdf</a>
+[1] Seong, E. J., Kim, W., Lee, J. W., <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, S. J. (2021). Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability. In Proceedings of HCI Korea 2021, Vol. 2021. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530281">pdf</a>
 </p></div>
 ![스크린샷 2024-02-28 오후 2 21 13](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/cdb979aa-680a-42b0-8579-645bec3b1fd8)
 

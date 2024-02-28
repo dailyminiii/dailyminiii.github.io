@@ -24,14 +24,14 @@ For more in-depth information about my projects and writings, feel free to visit
 
 <div style="font-size: 18px;">
  <p>
- [3] (Sep. 2023 ~ Present) Ph.D. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
+ [3] <span style="font-weight: bold;">(Sep. 2023 ~ Present)  Ph.D. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)</span>
   </p>
 </div>
 
 
 <div style="font-size: 18px;">
  <p>
- [2] (Sep. 2021 ~ Aug. 2023) M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)
+ [2] <span style="font-weight: bold;">(Sep. 2021 ~ Aug. 2023)  M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)</span>
  </p>
 </div>
 
@@ -54,7 +54,7 @@ For more in-depth information about my projects and writings, feel free to visit
 
 
 
-<div style="font-size: 18px;"><p>[1] (Mar 2017. ~ Aug. 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</p></div>
+<div style="font-size: 18px;"><p>[1] <span style="font-weight: bold;">(Mar. 2017 ~ Aug. 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</span></p></div>
  
 <div style="font-size: 16px;"><div style="margin-left: 20px;"><p>Committee Members: <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a></p></div></div>
 

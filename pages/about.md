@@ -72,7 +72,7 @@ For more in-depth information about my projects and writings, feel free to visit
 
 <div style="font-size: 18px;"><p>&nbsp;&nbsp;TGPA: 3.31, Major GPA: 3.75</p></div>
 
-<div style="font-size: 18px;"><p>&nbsp;&nbsp;A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div>
+<div style="font-size: 18px;"><div style="text-indent: 40px; margin-left: 40px;"><p>A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div></div>
 
 
 

@@ -39,7 +39,7 @@ permalink: /publications
 ![스크린샷 2024-02-28 오후 2 20 52](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/81d40462-df38-4b5a-9b46-e3800524ccf8)
 
 <div style="font-size: 18px;"><p>
-[2] Ok, S. B., <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, W., Jeon, H. S., Lee, J. W., Kim, K. J.,  Kim, S. J. (2022). Deep Learning-Based Engagement Classification by Behavioral and Physiological Data of Children with Developmental Disability. In Proceedings of HCI Korea 2022, Vol. 2022. <a href="https://drive.google.com/file/d/1GrgSU2Z8lvF0wsoBpX2hHsPf_AZtuXtK/view">pdf</a>
+[2] Ok, S. B., <mark style='background-color: #fff5b1'>Seong, M.W.</mark>, Kim, W., Jeon, H. S., Lee, J. W., Kim, K. J.,  Kim, S. J. (2022). Deep Learning-Based Engagement Classification by Behavioral and Physiological Data of Children with Developmental Disability. In Proceedings of HCI Korea 2022, Vol. 2022. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11043877">pdf</a>
 </p></div>
 ![Profile](/assets/img/DL.png)
 

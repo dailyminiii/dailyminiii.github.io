@@ -1,21 +1,21 @@
 ---
 layout: page
 title: Introduce Myself
-permalink: /facts
-title: "About me"
+permalink: /about
 author: "Minwoo Seong"
-categories: facts
+categories: about
 tags: [sample]
-image: profile picture.jpeg
 ---
 
 ![KakaoTalk_Photo_2024-02-28-10-23-32 001](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/f1b25080-a6d0-4766-925f-0ed64413338e)
 
+<div style="font-size: 14px;">
+Welcome! My name is Minwoo Seong. My academic journey began in Mechanical Engineering during my undergraduate studies, which laid the foundation for my fascination with Human-Computer Interaction (HCI). This interest led me to pursue HCI for both my Master's and Ph.D. studies, focusing on creating technologies that enhance human experiences from a user-centered perspective.
 
-Hi there! I'm Minwoo Seong. I have a background in Mechanical Engineering and am in the process of completing a Ph.D. degree in Human-Computer Interaction at Gwangju Institute of Science and Technology (GIST). I'm excited to share my knowledge and content with you. Check out [my personal website](https://dailyminiii.github.io/) for more information on my other projects, as well as some of my writing.
+I am particularly passionate about developing Artificial Intelligence systems that operate within human-centric frameworks and extending the realm of user experiences in music and sports through Virtual Reality (VR) and Augmented Reality (AR) environments. My research primarily revolves around utilizing wearable sensors to gather extensive human data. This data forms the backbone of the AI systems I build, aimed at providing feedback to users not only in physical spaces but also in virtual environments. This approach seeks to blur the lines between technology and human experience, paving the way for innovative and engaging user interactions.
 
-On my homepage, you'll find a section dedicated to my hobbies and extra activities, in addition to my research. I invite you to take a look and enjoy the content!
-
+For more in-depth information about my projects and writings, feel free to visit [my personal website](https://dailyminiii.github.io/). Additionally, my homepage features sections dedicated to both my research and personal hobbies and activities. I invite you to explore and hope you find the content both enlightening and enjoyable.
+</div>
 
 # Education
 
@@ -41,6 +41,8 @@ TGPA: 3.31, Major GPA: 3.75
 
 A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics
 
+
+
 # News
  [4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)
  
@@ -52,6 +54,7 @@ A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and 
  
  
  [1] 2019 GIST Photo Contest Winner [[link]](https://www.gist.ac.kr/kr/html/sub06/060101.html?mode=V&no=194113)
+
 
 # Contact
 

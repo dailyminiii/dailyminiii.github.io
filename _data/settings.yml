@@ -17,7 +17,7 @@ social:
 - {icon: 'instagram', link:  'https://www.instagram.com/daily_miniii/'}
 - {icon: 'youtube', link:   'https://www.youtube.com/channel/UCUCpgBdsKzO29vFWZjNM-7Q'}
 - {icon: 'archive', link:   'https://scholar.google.co.kr/citations?user=MYVwH3MAAAAJ&hl=ko'}
-- {icon: 'file-alt', link:   'https://docs.google.com/document/d/1E9b6_fk1YVqwueIyG-NuD5gBGNsiruUvk8OTOOt7uRs/edit?usp=sharing'}
+- {icon: 'file', link:   'https://docs.google.com/document/d/1E9b6_fk1YVqwueIyG-NuD5gBGNsiruUvk8OTOOt7uRs/edit?usp=sharing'}
 
 # Customize site text
 pagination:

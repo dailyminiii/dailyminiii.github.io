@@ -27,40 +27,40 @@ For more in-depth information about my projects and writings, feel free to visit
 
 <p><div style="font-size: 18px;">[2] (Sep 2021 ~ Present) M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)</div></p>
 
-Committee Members: [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao), [Jin-Hyuk Hong](https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko), [Kyung-Joong Kim](https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en), [Daniela Rus](https://www.csail.mit.edu/person/daniela-rus)
+<p><div style="font-size: 18px;">Committee Members: [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao), [Jin-Hyuk Hong](https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko), [Kyung-Joong Kim](https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en), [Daniela Rus](https://www.csail.mit.edu/person/daniela-rus)</div></p>
 
-M.S. Thesis: MultiSenseBadminton: Wearable Sensor-Based Biomechanical Dataset for Evaluation of Badminton Performance
+<p><div style="font-size: 18px;">M.S. Thesis: MultiSenseBadminton: Wearable Sensor-Based Biomechanical Dataset for Evaluation of Badminton Performance</div></p>
 
-TGPA: 4.25
+<p><div style="font-size: 18px;">TGPA: 4.25</div></p>
 
-A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning
+<p><div style="font-size: 18px;">A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning</div></p>
 
-[1] (Mar 2017 ~ Aug 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)
+<p><div style="font-size: 18px;">[1] (Mar 2017 ~ Aug 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</div></p>
  
-Committee Members: [Hyosung Ahn](https://sites.google.com/view/hyosungahn/), [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao)
+<p><div style="font-size: 18px;">[Committee Members: [Hyosung Ahn](https://sites.google.com/view/hyosungahn/), [SeungJun Kim](https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao)</div></p>
 
-B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
+<p><div style="font-size: 18px;">B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</div></p>
 
-TGPA: 3.31, Major GPA: 3.75
+<p><div style="font-size: 18px;">TGPA: 3.31, Major GPA: 3.75</div></p>
 
-A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics
+<p><div style="font-size: 18px;">A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</div></p>
 
 
 
 # News
- [4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)
+ <p><div style="font-size: 18px;">[4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)</div></p>
  
 
- [3] KCC 2022 Best Paper Award 🏆 [[link1]](http://www.chum-dan.net/news/articleView.html?idxno=6089) [[link2]](https://news.unn.net/news/articleView.html?idxno=531642) [[link3]](https://www.news1.kr/articles/?4753497) [[link4]](https://news.nate.com/view/20220726n07118) [[link5]](https://news.nate.com/view/20220726n07367)
+<p><div style="font-size: 18px;"> [3] KCC 2022 Best Paper Award 🏆 [[link1]](http://www.chum-dan.net/news/articleView.html?idxno=6089) [[link2]](https://news.unn.net/news/articleView.html?idxno=531642) [[link3]](https://www.news1.kr/articles/?4753497) [[link4]](https://news.nate.com/view/20220726n07118) [[link5]](https://news.nate.com/view/20220726n07367)</div></p>
  
  
- [2] Attending GIST-MIT workshop [[link]](https://www.etnews.com/20220711000027)
+ <p><div style="font-size: 18px;">[2] Attending GIST-MIT workshop [[link]](https://www.etnews.com/20220711000027)</div></p>
  
  
- [1] 2019 GIST Photo Contest Winner [[link]](https://www.gist.ac.kr/kr/html/sub06/060101.html?mode=V&no=194113)
+ <p><div style="font-size: 18px;">[1] 2019 GIST Photo Contest Winner [[link]](https://www.gist.ac.kr/kr/html/sub06/060101.html?mode=V&no=194113)</div></p>
 
 
 # Contact
 
-E-mail: seongminwoo(at).gm.gist.ac.kr
+<p><div style="font-size: 18px;">E-mail: seongminwoo(at).gm.gist.ac.kr</div></p>
 

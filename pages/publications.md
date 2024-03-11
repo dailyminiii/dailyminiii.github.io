@@ -7,12 +7,12 @@ permalink: /publications
 ### International
 
 <div style="font-size: 18px;"><p> 
-[4] <u>Kim, W.</u>, <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, K.,  Kim, S. (2024).Engagnition: A Multi-Dimensional Dataset for Engagement Recognition of Children with Autism Spectrum Disorder. Scientific Data. (<u>Underline</u> means Equally contributed 1st author) <span style="color: blue;">(Accepted)</span>
+[4] <u>Kim, W.</u>, <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, K.,  Kim, S. (2024).Engagnition: A Multi-Dimensional Dataset for Engagement Recognition of Children with Autism Spectrum Disorder. Scientific Data (IF=9.8). (<u>Underline</u> means Equally contributed 1st author) <span style="color: blue;">(Accepted)</span>
 </p></div>
 ![스크린샷 2024-02-28 오후 2 19 51](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/550f417d-2317-4b43-87d1-78f50df2751e)
 
 <div style="font-size: 18px;"><p>  
-[3] <mark style='background-color: #fff5b1'>Seong, M.</mark>, Kim, G., Yeo, D., Kang, Y., Yang, H., DelPreto. J., Matusik., W., Rus., D., Kim, S. (2024). MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance. Scientific Data. <span style="color: blue;">(Accepted)</span>
+[3] <mark style='background-color: #fff5b1'>Seong, M.</mark>, Kim, G., Yeo, D., Kang, Y., Yang, H., DelPreto. J., Matusik., W., Rus., D., Kim, S. (2024). MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance. Scientific Data (IF=9.8). <span style="color: blue;">(Accepted)</span>
 </p></div>
 ![스크린샷 2024-02-28 오후 2 20 12](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/f0aad0b2-9393-4e4f-9528-2d6e895573f7)
 

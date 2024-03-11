@@ -50,7 +50,7 @@ For more in-depth information about my projects and writings, feel free to visit
 
 <div style="font-size: 12px;">
  <div style="margin-left: 20px;"><p>
- Committee Members: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a>, <a href="https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko">Jin-Hyuk Hong</a>, <a href="https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en">Kyung-Joong Kim</a>, <a href="https://www.csail.mit.edu/person/daniela-rus">Daniela Rus</a>
+<span style="font-weight: bold;"> Committee Members:</span> <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a>, <a href="https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko">Jin-Hyuk Hong</a>, <a href="https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en">Kyung-Joong Kim</a>, <a href="https://www.csail.mit.edu/person/daniela-rus">Daniela Rus</a>
  </p>
 </div></div>
 
@@ -67,15 +67,36 @@ For more in-depth information about my projects and writings, feel free to visit
 
 
 
-<div style="font-size: 18px;"><p>[1] <span style="font-weight: bold;">(Mar. 2017 ~ Aug. 2021) B.S. in Mechanical Engineering, Gwangju Institute of Science and Technology (GIST)</span></p></div>
- 
-<div style="font-size: 16px;"><div style="margin-left: 20px;"><p>Committee Members: <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a></p></div></div>
 
-<div style="font-size: 16px;"><div style="margin-left: 20px;"><p><span style="font-weight: bold;">B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</span></p></div></div>
 
-<div style="font-size: 16px;"><div style="margin-left: 20px;"><p>TGPA: 3.31, Major GPA: 3.75</p></div></div>
+<div style="font-size: 18px;">
+ <p>
+<span style="font-weight: bold;">Gwangju Institute of Science and Technology, Korea</span>
+ </p>
+</div>
 
-<div style="font-size: 16px;"><div style="margin-left: 20px;"><p>A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div></div>
+
+<div style="font-size: 12px;">
+ <div style="margin-left: 20px;">
+ <p>
+<span style="font-weight: bold;">Bachelor of Science </span> -  Department of Mechanical Engineering (Mar. 2017 ~ Aug. 2021)
+ </p>
+</div></div>
+
+<div style="font-size: 12px;">
+ <div style="margin-left: 20px;"><p>
+<span style="font-weight: bold;"> <p>Committee Members: <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a>
+ </p>
+</div></div>
+
+<div style="font-size: 12px;">
+ <div style="margin-left: 20px;"><p><span style="font-weight: bold;">B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</span></p>
+</div></div>
+
+<div style="font-size: 12px;"><div style="margin-left: 20px;"><p>TGPA: 3.31, Major GPA: 3.75</p></div></div>
+
+<div style="font-size: 12px;"><div style="margin-left: 20px;"><p>A+ Subjects: 1) Differential Equations and Applications, 2) Software Basics and Coding, 3) Creativity and Imagineering, 4) Software Practical Use and Coding, 5) Robotics</p></div></div>
+
 
 ### Research Interest
 

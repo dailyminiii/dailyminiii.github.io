@@ -28,33 +28,41 @@ For more in-depth information about my projects and writings, feel free to visit
   </p>
 </div>
 
-<div style="font-size: 15px;">
+<div style="font-size: 12px;">
+ <div style="margin-left: 20px;">
  <p>
 <span style="font-weight: bold;"> Ph.D. Candidate </span> - Intelligent Robotics, Institute of Integrated Technology (Sep. 2023 ~ Present)
   </p>
-</div>
+</div></div>
 
 <div style="font-size: 18px;">
  <p>
-<span style="font-weight: bold;">(Sep. 2021 ~ Aug. 2023)  M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)</span>
+<span style="font-weight: bold;">Gwangju Institute of Science and Technology, Korea</span>
  </p>
 </div>
 
-<div style="font-size: 16px;">
+<div style="font-size: 12px;">
+ <div style="margin-left: 20px;">
+ <p>
+<span style="font-weight: bold;">Master of Science </span> - Intelligent Robotics, Institute of Integrated Technology (Sep. 2021 ~ Aug. 2023)
+ </p>
+</div></div>
+
+<div style="font-size: 12px;">
  <div style="margin-left: 20px;"><p>
  Committee Members: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a>, <a href="https://scholar.google.com/citations?user=iTu5G9QAAAAJ&hl=ko">Jin-Hyuk Hong</a>, <a href="https://scholar.google.com.au/citations?user=YBYE93sAAAAJ&hl=en">Kyung-Joong Kim</a>, <a href="https://www.csail.mit.edu/person/daniela-rus">Daniela Rus</a>
  </p>
 </div></div>
 
-<div style="font-size: 16px;">
+<div style="font-size: 12px;">
  <div style="margin-left: 20px;"><p>
  <span style="font-weight: bold;">M.S. Thesis: MultiSenseBadminton: Wearable Sensor-Based Biomechanical Dataset for Evaluation of Badminton Performance</span> 
 </p>
 </div></div>
 
-<div style="font-size: 16px;"><div style="margin-left: 20px;"><p>TGPA: 4.25</p></div></div>
+<div style="font-size: 12px;"><div style="margin-left: 20px;"><p>TGPA: 4.25</p></div></div>
 
-<div style="font-size: 16px;"><div style="margin-left: 20px;"><p>A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning</p></div></div>
+<div style="font-size: 12px;"><div style="margin-left: 20px;"><p>A+ Subjects: 1) Research Methods in Human-Computer Interaction, 2) Reinforcement Learning</p></div></div>
 
 
 

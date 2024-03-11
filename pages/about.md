@@ -28,15 +28,15 @@ For more in-depth information about my projects and writings, feel free to visit
   </p>
 </div>
 
-<div style="font-size: 18px;">
+<div style="font-size: 15px;">
  <p>
-<span style="font-weight: bold;">Ph.D. in Intelligent Robotics, Institute of Integrated Technology (Sep. 2023 ~ Present)    (GIST)</span>
+<span style="font-weight: bold;"> Ph.D. Candidate </span> - Intelligent Robotics, Institute of Integrated Technology (Sep. 2023 ~ Present)
   </p>
 </div>
 
 <div style="font-size: 18px;">
  <p>
- [2] <span style="font-weight: bold;">(Sep. 2021 ~ Aug. 2023)  M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)</span>
+<span style="font-weight: bold;">(Sep. 2021 ~ Aug. 2023)  M.S. in Intelligent Robotics, Institute of Integrated Technology, Gwangju Institute of Science and Technology (GIST)</span>
  </p>
 </div>
 

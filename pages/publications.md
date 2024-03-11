@@ -39,19 +39,19 @@ permalink: /publications
 ![스크린샷 2024-02-28 오후 2 20 52](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/81d40462-df38-4b5a-9b46-e3800524ccf8)
 
 <div style="font-size: 18px;"><p>
-[2] Ok, S., <mark style='background-color: #fff5b1'><u>Seong, M.</u>u></mark>, Kim, W., Jeon, H., Lee, J., Kim, K.,  Kim, S. (2022). Deep Learning-Based Engagement Classification by Behavioral and Physiological Data of Children with Developmental Disability. In Proceedings of HCI Korea 2022, Vol. 2022. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11043877">pdf</a>
+[2] Ok, S., <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, W., Jeon, H., Lee, J., Kim, K.,  Kim, S. (2022). Deep Learning-Based Engagement Classification by Behavioral and Physiological Data of Children with Developmental Disability. In Proceedings of HCI Korea 2022, Vol. 2022. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11043877">pdf</a>
 </p></div>
 ![Profile](/assets/img/DL.png)
 
 <div style="font-size: 18px;"><p>
-[1] Seong, E., Kim, W., Lee, J., <mark style='background-color: #fff5b1'><u>Seong, M.</u>u></mark>, Kim, S. (2021). Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability. In Proceedings of HCI Korea 2021, Vol. 2021. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530281">pdf</a>
+[1] Seong, E., Kim, W., Lee, J., <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, S. (2021). Sensor-based Interactive Contents for People with Developmental Disabilities and Exploration of Applicability. In Proceedings of HCI Korea 2021, Vol. 2021. <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530281">pdf</a>
 </p></div>
 ![스크린샷 2024-02-28 오후 2 21 13](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/cdb979aa-680a-42b0-8579-645bec3b1fd8)
 
 
 ### Competition
 <div style="font-size: 18px;"><p>
-[1] <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, <u>Oh, J.</u>, Kim, S. CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up 🏆 (Rank 2) (<u>Underline</u> means Equally contributed 1st author)  <a href="https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main">GitHub</a> <a href="https://arxiv.org/abs/2307.08262">pdf</a>
+[1] <mark style='background-color: #fff5b1'><u>Seong, M.*</u></mark>, <u>Oh, J.*</u>, Kim, S. CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up 🏆 (Rank 2) (* means Equally contributed 1st author)  <a href="https://github.com/stan5dard/IJCAI-CoachAI-Challenge-2023/tree/main">GitHub</a> <a href="https://arxiv.org/abs/2307.08262">pdf</a>
 </p></div>
 ![IJCAI](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/52e4a8b2-a50f-4d52-949a-ec4361fc658a)
 

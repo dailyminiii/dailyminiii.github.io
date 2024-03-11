@@ -106,17 +106,19 @@ For more in-depth information about my projects and writings, feel free to visit
 
 ### Research Interest
 
-<div style="font-size: 18px;"><p>∙ Human-Computer Interaction </p></div>
+<div style="font-size: 15px;"><p>∙ Human-Computer Interaction </p></div>
 
-<div style="font-size: 18px;"><p>∙ Deep Learning & Machine Learning</p></div>
+<div style="font-size: 15px;"><p>∙ Explainable AI</p></div>
 
-<div style="font-size: 18px;"><p>∙ Sensor-based Technology </p></div>
+<div style="font-size: 15px;"><p>∙ Wearable Sensor </p></div>
 
-<div style="font-size: 18px;"><p>∙ Virtual Reality & Augmented Reality</p></div>
+<div style="font-size: 15px;"><p>∙ Virtual Reality & Augmented Reality</p></div>
 
-<div style="font-size: 18px;"><p>∙ Human-centered Haptic Interface</p></div>
+<div style="font-size: 15px;"><p>∙ Human-centered Haptic Interface</p></div>
 
-<div style="font-size: 18px;"><p>∙ Wearable Device</p></div>
+<div style="font-size: 15px;"><p>∙ Sports Training</p></div>
+
+<div style="font-size: 15px;"><p>∙ Art & Music Instrument Training </p></div>
 
 ### News
 <div style="font-size: 18px;">

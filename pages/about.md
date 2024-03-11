@@ -84,8 +84,9 @@ For more in-depth information about my projects and writings, feel free to visit
 </div></div>
 
 <div style="font-size: 12px;">
- <div style="margin-left: 20px;"><p>
-<span style="font-weight: bold;"> <span style="font-weight: bold;">Committee Members: </span> <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a>
+ <div style="margin-left: 20px;">
+  <p>
+<span style="font-weight: bold;"> Committee Members: </span> <a href="https://sites.google.com/view/hyosungahn/">Hyosung Ahn</a>, <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl=ko&oi=ao">SeungJun Kim</a>
  </p>
 </div></div>
 

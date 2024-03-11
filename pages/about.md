@@ -90,8 +90,13 @@ For more in-depth information about my projects and writings, feel free to visit
  </p>
 </div></div>
 
+
 <div style="font-size: 12px;">
- <div style="margin-left: 20px;"><p><span style="font-weight: bold;">B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment</span></p>
+ <div style="margin-left: 20px;">
+  <p>
+   <span style="font-weight: bold;">B.S. Thesis: VR Interface Design to Increase the Immersion of the Experience of Grasping Objects in a Virtual Environment
+   </span>
+  </p>
 </div></div>
 
 <div style="font-size: 12px;"><div style="margin-left: 20px;"><p>TGPA: 3.31, Major GPA: 3.75</p></div></div>

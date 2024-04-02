@@ -7,8 +7,7 @@ permalink: /publications
 ### International
 
 <div style="font-size: 18px;"><p> 
-[4] Kim, W.*, <mark style='background-color: #fff5b1'><u>Seong, M.*</u></mark>, Kim, K.,  Kim, S. (2024).Engagnition: A Multi-Dimensional Dataset for Engagement Recognition of Children with Autism Spectrum Disorder. Scientific Data <u>(IF=9.8)</u>. (* means Equally contributed 1st author, alphabetic order) <span style="color: blue;">(Accepted)</span>
-</p></div>
+[4] Kim, W.*, <mark style='background-color: #fff5b1'><u>Seong, M.*</u></mark>, Kim, K.,  Kim, S. (2024).Engagnition: A Multi-Dimensional Dataset for Engagement Recognition of Children with Autism Spectrum Disorder. Scientific Data <u>(IF=9.8)</u>. (* means Equally contributed 1st author, alphabetic order) <a href="https://www.nature.com/articles/s41597-024-03132-3">link</a>
 ![스크린샷 2024-02-28 오후 2 19 51](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/550f417d-2317-4b43-87d1-78f50df2751e)
 
 <div style="font-size: 18px;"><p>  

@@ -14,8 +14,9 @@ permalink: /publications
 
 
 <div style="font-size: 18px;"><p>  
-[3] <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, G., Yeo, D., Kang, Y., Yang, H., DelPreto. J., Matusik., W., Rus., D., Kim, S. (2024). MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance. Scientific Data <u>(IF=9.8, Q1)</u>. <span style="color: blue;">(Accepted)</span>
-</p></div>
+[3] <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, G., Yeo, D., Kang, Y., Yang, H., DelPreto. J., Matusik., W., Rus., D., Kim, S. (2024). MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance. Scientific Data <u>(IF=9.8, Q1)</u>. <a href="https://www.nature.com/articles/s41597-024-03144-z">link</a></p></div>
+
+
 
 ![스크린샷 2024-02-28 오후 2 20 12](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/f0aad0b2-9393-4e4f-9528-2d6e895573f7)
 

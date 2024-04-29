@@ -61,6 +61,8 @@ permalink: /experiences
 
 <div style="font-size: 28px;"><p> <strong>  Awards & Scholarships </strong> </p></div>
 
+<div style="font-size: 18px;"><p>[8] CHI 2024 Honorable Mention 🏆 </p></div>
+
 <div style="font-size: 18px;"><p>[7] GIST Ph.D. Degree Government Scholarship (Government supported), 4 years, Full funding (Sep. 2023 ~ present)</p></div>
 
 <div style="font-size: 18px;"><p>[6] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up 🏆 (Rank 2)</p></div>

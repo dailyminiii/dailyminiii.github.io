@@ -7,13 +7,13 @@ permalink: /publications
 ### International
 
 <div style="font-size: 18px;"><p> 
-[6] <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, G., Kang, Y., Jang, J., DelPreto Joseph, Kim, S. (2024). Counterfactual Explanation-Based Badminton Motion Guidance Generation Using Wearable Sensors. 2024 IEEE ICRA Workshop on Wearable  
+[6] <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, G., Kang, Y., Jang, J., DelPreto Joseph, Kim, S. (2024). Counterfactual Explanation-Based Badminton Motion Guidance Generation Using Wearable Sensors. 2024 IEEE ICRA Workshop on Wearable  </p></div>
   
 ![ICRA](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/d6c8e886-6c06-42d8-8907-e5f9a7dfaabf)
 
 
 <div style="font-size: 18px;"><p>  
-[5] Choi, Y., Yeo, D., Hwang, S., <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Moon, J., Yiyue Luo, Wojciech Matusik, Daniela Rus, Kim, K. (2024). Intelligence Walker: A Seamless Mobility Assist Device for the Elderly Performance. 2024 IEEE ICRA Workshop on Wearable  
+[5] Choi, Y., Yeo, D., Hwang, S., <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Moon, J., Yiyue Luo, Wojciech Matusik, Daniela Rus, Kim, K. (2024). Intelligence Walker: A Seamless Mobility Assist Device for the Elderly Performance. 2024 IEEE ICRA Workshop on Wearable  </p></div>
 
 ![image](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/4b2c31e4-f5d4-49b9-a33a-cda3cf6cc858)
 

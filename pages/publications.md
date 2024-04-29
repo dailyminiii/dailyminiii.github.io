@@ -7,6 +7,18 @@ permalink: /publications
 ### International
 
 <div style="font-size: 18px;"><p> 
+[6] <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, G., Kang, Y., Jang, J., DelPreto Joseph, Kim, S. (2024). Counterfactual Explanation-Based Badminton Motion Guidance Generation Using Wearable Sensors. 2024 IEEE ICRA Workshop on Wearable  
+  
+![ICRA](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/d6c8e886-6c06-42d8-8907-e5f9a7dfaabf)
+
+
+<div style="font-size: 18px;"><p>  
+[5] Choi, Y., Yeo, D., Hwang, S., <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Moon, J., Yiyue Luo, Wojciech Matusik, Daniela Rus, Kim, K. (2024). Intelligence Walker: A Seamless Mobility Assist Device for the Elderly Performance. 2024 IEEE ICRA Workshop on Wearable  
+
+![image](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/4b2c31e4-f5d4-49b9-a33a-cda3cf6cc858)
+
+
+<div style="font-size: 18px;"><p> 
 [4] Kim, W.*, <mark style='background-color: #fff5b1'><u>Seong, M.*</u></mark>, Kim, K.,  Kim, S. (2024).Engagnition: A Multi-Dimensional Dataset for Engagement Recognition of Children with Autism Spectrum Disorder. Scientific Data <u>(IF=9.8, Q1)</u>. (* means Equally contributed 1st author, alphabetic order) <a href="https://www.nature.com/articles/s41597-024-03132-3">link</a></p></div>
   
 
@@ -14,14 +26,14 @@ permalink: /publications
 
 
 <div style="font-size: 18px;"><p>  
-[3] <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, G., Yeo, D., Kang, Y., Yang, H., DelPreto. J., Matusik., W., Rus., D., Kim, S. (2024). MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance. Scientific Data <u>(IF=9.8, Q1)</u>. <a href="https://www.nature.com/articles/s41597-024-03144-z">link</a></p></div>
+[3] <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Kim, G., Yeo, D., Kang, Y., Yang, H., Joseph DelPreto, Wojciech Matusik, Daniela Rus, Kim, S. (2024). MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance. Scientific Data <u>(IF=9.8, Q1)</u>. <a href="https://www.nature.com/articles/s41597-024-03144-z">link</a></p></div>
 
 
 
 ![스크린샷 2024-02-28 오후 2 20 12](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/f0aad0b2-9393-4e4f-9528-2d6e895573f7)
 
 <div style="font-size: 18px;"><p>   
-[2] Hwang, S., Oh, J., Kang, S., <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Elsharkawy, A., and Kim, S. (2024). ErgoPulse: Electrifying Your Lower Body With Biomechanical Simulation-based Electrical Muscle Stimulation Haptic System in Virtual Reality. Proceedings of the 2024 CHI - <span style="color: blue;">(Accepted)</span>
+[2] Hwang, S., Oh, J., Kang, S., <mark style='background-color: #fff5b1'><u>Seong, M.</u></mark>, Elsharkawy, A., and Kim, S. (2024). ErgoPulse: Electrifying Your Lower Body With Biomechanical Simulation-based Electrical Muscle Stimulation Haptic System in Virtual Reality. Proceedings of the 2024 CHI - <span style="color: blue;">(Honorable Mention 🏆)</span>
 </p></div>
 
 ![스크린샷 2024-02-28 오후 2 19 11](https://github.com/dailyminiii/dailyminiii.github.io/assets/79134282/826d5649-ac96-4a59-a7a8-937b9a02c303)

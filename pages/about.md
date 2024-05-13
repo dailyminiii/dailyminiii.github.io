@@ -121,6 +121,17 @@ For more in-depth information about my projects and writings, feel free to visit
 <div style="font-size: 15px;"><p>∙ Art & Music Instrument Training </p></div>
 
 ### News
+
+<div style="font-size: 18px;">
+  <p>
+  [5] GIST-MIT CSAIL researchers develop a biomechanical dataset for badminton performance analysis
+   <a href="https://www.eurekalert.org/news-releases/1043174">link1</a>
+    <a href="https://gistpr.medium.com/gist-mit-csail-researchers-develop-a-biomechanical-dataset-for-badminton-performance-analysis-4e7c7f647c8a">link2</a>
+    <a href="https://www.archysport.com/2024/05/revolutionizing-badminton-coaching-ai-powered-training-with-multisensebadminton-dataset/">link3</a>
+    <a href="https://biz.chosun.com/science-chosun/science/2024/05/08/TSUO7KTQRRF3ND233YOXIA5FVA/">link4</a>
+   </p>
+ </div>
+
 <div style="font-size: 18px;">
   <p>
   [4] CoachAI Badminton Challenge 2023 (Track 2: Forecasting Future Turn-Based Strokes in Badminton Rallies) - Runner-up (Rank 2)
